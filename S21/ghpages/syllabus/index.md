@@ -2,6 +2,7 @@
 layout: page
 title: Course information
 nav_order: 2
+has_children: true
 ---
 
 # Course information (syllabus)
@@ -12,6 +13,6 @@ nav_order: 2
     - Goals and objectives
     - Course requirements and grading
     - Course policies
-- resources
+- [resources](../resources/)
 - how to succes
 - technologies
