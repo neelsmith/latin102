@@ -14,5 +14,5 @@ has_children: true
     - Course requirements and grading
     - Course policies
 - [resources](../resources/)
-- how to succes
+- how to succeed
 - technologies
