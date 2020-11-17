@@ -2,9 +2,9 @@
 
 ## 1. Review of Latin 101
 
-Welcome back! Review nouns and adjectives
-Technology tune up for S21
-Review: verbs
+Welcome back! [Review nouns and adjectives](../assignments/substantives/)
+[Technology tune-up](../assignments/techtuneup/) for S21
+Review: [verbs](../assignments/verbs/)
 
 
 Principal parts and vocabulary review

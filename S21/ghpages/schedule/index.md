@@ -13,7 +13,7 @@ nav_order: 2
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Feb. 1-Feb. 5 | Welcome back! Review nouns and Adjectives | Technology tune up for S21| Review: verbs |      |
+|Feb. 1-Feb. 5 | Welcome back! [Review nouns and adjectives](../assignments/substantives/) | [Technology tune-up](../assignments/techtuneup/) for S21| Review: [verbs](../assignments/verbs/) |      |
 |Feb. 8-Feb. 12 | Principal parts and vocabulary review | Review: Pronouns| Verbs: future tense |      |
 
 
