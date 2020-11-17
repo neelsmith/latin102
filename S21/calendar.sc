@@ -2,8 +2,8 @@ import edu.holycross.shot.coursecal._
 import java.io.PrintWriter
 
 
-def header(module: Int) : String = {
-  s"---\nlayout: page\ntitle: Daily schedule for unit ${module}\nparent: Course schedule\nnav_order: ${2*module}\n---\n\n"
+def header : String = {
+  s"---\nlayout: page\ntitle: Daily schedule\nnnav_order: 2\n---\n\n"
 }
 
 /*
@@ -14,18 +14,17 @@ def rewriteHeader(md: String): String = {
   newHeader + lines.slice(4, md.size).mkString("\n")
 }*/
 
-def schedule(module: Int): Unit = {
-  val pg = s"ghpages/schedule/part${module}/schedule/index.md"
+def schedule: Unit = {
+  val pg = s"ghpages/schedule/index.md"
 
-  val sched = Schedule(s"topics${module}.txt", s"calendar${module}.yaml")
+  val sched = Schedule("topics.txt", "calendar.yaml")
   //val md = sched.markdownCalendar
   //val tweaked = rewriteHeader(md)
   val lines = sched.markdownCalendar.split("\n").toVector
-  val md = header(module) + lines.slice(4, lines.size).mkString("\n") + "\n\n"
+  val md = header + lines.slice(4, lines.size).mkString("\n") + "\n\n"
   new PrintWriter(pg) { write(md); close }
   println("Schedule written to " + pg)
 }
 
-println("\nWrite schedule for unit:")
-println("\n\tschedule(UNIT_NUMBER)")
-println("\nwhere UNIT_NUMBER is 1,2 or 3")
+println("\nWrite course schedule")
+println("\n\tschedule")

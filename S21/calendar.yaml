@@ -11,4 +11,7 @@ schedule : "mwf"
 totalWeeks : 14
 
 fixedDates:
-  - 2020-10-09 == All unit 1 requirements due Friday (11:59 pm Eastern)
+  - 2021-04-02 == Easter break (Fri.)
+  - 2021-04-05 == Easter break (Mon.)
+  - 2021-04-28 == Academic conference (Wed.)
+  - 2012-05-07 == Last day of classes (Fri.)
