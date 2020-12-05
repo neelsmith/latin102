@@ -1,11 +1,9 @@
 ---
 layout: page
 title: String search
-grand_parent: Course modules
 parent: "Hyginus"
-nav_order: 1
+nav_order: 0
 ---
-
 
 # String search
 
