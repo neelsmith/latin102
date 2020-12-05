@@ -4,4 +4,4 @@ title: Hyginus
 has_children: true
 ---
 
-# Tools for working text of Hyginus
+# Tools for working with the text of Hyginus
