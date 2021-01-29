@@ -8,4 +8,10 @@ parent: Course information
 
 # Course resources and reference material
 
+
+## External resources
+
 - online [textbook and reference materials](https://lingualatina.github.io/textbook/).  The L3 textbook is the basic reference and textbook we will use this year.
+
+
+## Resources on this web site
