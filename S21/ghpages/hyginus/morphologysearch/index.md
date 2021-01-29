@@ -2,6 +2,7 @@
 layout: page
 title: Morphological search
 parent: "Hyginus"
+grand_parent: "Course resources and reference material"
 nav_order: 2
 ---
 
