@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Requirements and grading
-parent: Course information
+parent: Syllabus
 nav_order: 3
 ---
 
