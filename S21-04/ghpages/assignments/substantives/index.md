@@ -8,5 +8,3 @@ nav_order: 1
 ---
 
 # Review substantives
-
-Welcome back!

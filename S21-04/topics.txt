@@ -1,8 +1,6 @@
-# Latin 102 S21: daily schedule
-
 ## 1. Review of Latin 101
 
-Welcome back! [Review nouns and adjectives](../assignments/substantives/)
+[Welcome back!](../assignments/welcomeback/)
 [Technology tune-up](../assignments/techtuneup/) for S21
 Review: [verbs](../assignments/verbs/)
 

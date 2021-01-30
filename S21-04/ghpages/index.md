@@ -7,12 +7,11 @@ nav_order: 0
 
 # Latin 102-04: home page
 
-In Latin 102, you encounter a historical language and culture, and engage with how that language and culture continue to shape structures of power today.
+> In Latin 102, you encounter a historical language and culture, and engage with how that language and culture continue to shape structures of power today.
 
+## Announcements
 
-## Current module
-
-- [Unit 1: review of Latin 101](./modules/unit1/)
+Welcome back!  For Monday, Feb. 1, try these review questions before class.
 
 ## Contact and schedule information
 

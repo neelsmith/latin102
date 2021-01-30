@@ -4,16 +4,14 @@ title: Daily schedule
 nav_order: 2
 ---
 
-
-# Latin 102 S21: daily schedule
-
+# Latin 102-04 S21: daily schedule
 
 
 ## 1. Review of Latin 101
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Feb. 1-Feb. 5 | Welcome back! [Review nouns and adjectives](../assignments/substantives/) | [Technology tune-up](../assignments/techtuneup/) for S21| Review: [verbs](../assignments/verbs/) |      |
+|Feb. 1-Feb. 5 | [Welcome back!](../assignments/welcomeback/) | [Technology tune-up](../assignments/techtuneup/) for S21| Review: [verbs](../assignments/verbs/) |      |
 |Feb. 8-Feb. 12 | Principal parts and vocabulary review | Review: Pronouns| Verbs: future tense |      |
 
 
