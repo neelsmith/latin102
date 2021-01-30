@@ -2,7 +2,7 @@
 layout: page
 title: Summary of Latin 101
 has_children: true
-parent: "Course information"
+parent: "Syllabus"
 nav_order: 6
 ---
 
