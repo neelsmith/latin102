@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Syllabus
-nav_order: 2
+nav_order: 5
 has_children: true
 ---
 
-# Syllabus (syllabus)
+# Syllabus
 
 
 - overview:
