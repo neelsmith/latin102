@@ -1,12 +1,12 @@
 ---
 layout: page
 title: CBL lab
-nav_order: 3
+nav_order: 2
 ---
 
 # CBL lab
 
-In January, the Worcester public school system announced that due to the high incidence of COVID virus, Worcester schools would remain online only until further notice.  We 
+In January, the Worcester public school system announced that due to the high incidence of COVID virus, Worcester schools would remain online only until further notice.   The schedule below is complete for the first six weeks of our semester;  we will adjust our plans for the second half of the semester depending on the situation both at Holy Cross and at the Worcester Public Schools.
 
 ## Projects
 
