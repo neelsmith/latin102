@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Hyginus
+title: Tools for reading Hyginus
 has_children: true
-parent: Course resources and reference material
-grand_parent: "Syllabus"
+parent: "Syllabus"
 ---
 
-# Tools for working with the text of Hyginus
+# Tools for reading Hyginus, *Fabulae*
+
+- a [browsable text of Hyginus](https://lingualatina.github.io/texts/browsable/hyginus/toc/)
+- a [searchable Latin lexicon](http://folio2.furman.edu/lewis-short/index.html) from Furman University
+- [tools for searching the text of Hyginus](../Hyginus/)
+
+
+## Searching the text

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Morphological search
-parent: "Hyginus"
-grand_parent: "Course resources and reference material"
 nav_order: 2
+parent: "Tools for reading Hyginus"
+grand_parent:  Syllabus
 ---
 
 # Morphological search
