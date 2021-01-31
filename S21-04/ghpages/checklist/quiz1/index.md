@@ -8,21 +8,20 @@ nav_order: 1
 
 # Quiz 1
 
+## Part 1: recognizing nouns
+
+Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options.  Translate prepositional phrases.
+
+1. filiam
+2. in coniugium
+3. animo
+4. uirgine
+5. parentes
+6. ad uxorem
 
 
-For each of the following nouns or noun phrases, 
-(a) identify the case, number, and gender of the noun. If there are multiple options, list all options.
-(b) if the form is singular, convert to plural; if the form is plural, convert to singular
-(c) translate the new form.
 
-1 pacis
-2 in terram
-3 capitum
-4 ad locos
-5 verba
-6 in regnīs
-7 ab patre
-8 ducī
+## Part 2: verbs
 
 For each of the following verbs,
 
@@ -30,15 +29,21 @@ For each of the following verbs,
 (b) if the form is singular, convert to plural; if the form is plural, convert to singular
 (c) translate the new form.
 
-9 habet
-10 visum est
-11 dicēbat
-12 audita est
-13 potest
-14 ducēbantur
-15 capitur
-16 erat
+1. petivisset
+2. necauit
+3. necari
+4. rogaretur
+5. coepit
+6. interfecisset
+7. misit
 
+
+Translate the italicized verb forms into Latin.
+
+1. Centaurs *are being killed* by Hercules. (*Use the present tense*)
+2. Centaurs *were being killed* by Hercules. (*Use the perfect tense*)
+3. Centaurs *were killed* by Hercules. (*Use the perfect tense*)
+4. When Hercules killed the Centaurs, 
 
 
 1. Fill in the forms of duco in the 3rd person singular. Translate indicative and infinitive forms.

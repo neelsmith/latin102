@@ -11,7 +11,14 @@ nav_order: 0
 
 ## Announcements
 
-Welcome back!  For Monday, Feb. 1, try these review questions before class.
+- **Feb. 1**: Welcome back!  **No CBL lab** this week.  CBL lab begins Feb. 8/9.
+
+
+## This week in summary
+
+- Review 
+
+
 
 ## Contact and schedule information
 

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Welcome back!
-grand_parent: Course modules
-parent: "Unit 1: review"
+parent: "Daily schedule"
 nav_order: 1
 ---
 
@@ -36,9 +35,9 @@ means that nouns used with the preposition *per* are in the *accusative* case.  
 
 Here is a list of all the [prepositions used frequently in Hyginus](https://lingualatina.github.io/textbook/vocabulary/prepositions/).  Review the list, and try the interactive exercise below.
 
-
-
 ## Try some prepositional phrases!
 
 <iframe width="100%" height="331" frameborder="0"
   src="https://observablehq.com/embed/@neelsmith/practice-prepositions?cells=viewof+group%2Cviewof+chosenquestion%2Cviewof+answer%2Ccheck%2Ccss"></iframe>
+
+

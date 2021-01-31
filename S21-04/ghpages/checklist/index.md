@@ -12,8 +12,8 @@ has_children: true
 | [Initial informational form](./infoform/)  (on Google forms) | Feb. 5 | Feb. 5 |
 | [Quiz 1](./quiz1/) | Feb. 5 | Feb. 19 |
 | [Translation 1](./translation1/) | Feb. 12 | Feb. 24 |
-| [Composition 1](./composition1/) | Feb. 19 | Mar. 5|
-| Quiz 2 | Feb. 24 | *TBA* |
+| [Composition 1](./composition1/) | Feb. 22 | Mar. 5|
+| Quiz 2 | Feb. 26 | *TBA* |
 | Translation 2 | Mar. 5 |  *TBA* |
 | Composition 2 | Mar. 19 |  *TBA* |
 | Quiz 3 | Mar. 24 |  *TBA* |

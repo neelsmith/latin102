@@ -1,32 +1,31 @@
 ## 1. Review of Latin 101
 
 [Welcome back!](../assignments/welcomeback/)
-[Technology tune-up](../assignments/techtuneup/) for S21
-Review: [verbs](../assignments/verbs/)
+Verbs: [principal parts](../assignments/verbs/)  and vocabulary review#*Fri*: [informational form](../checklist/infoform/) due.
+Review: [noun-adjective](../assignments/substantives/)  agreement#*Fri*: [**Quiz 1**](../checklist/quiz1/).
 
-
-Principal parts and vocabulary review
 Review: Pronouns
-Verbs: future tense
+Recognizing verb forms
+Verbs: future tense#*Fri*: **Translation 1** due.
 
 ## 2. Relative clauses
 
-Translation exercise
+Review translation 1
 Relative Clauses
 Relative Clauses, 2
 
 ## 3. Participles
 
-Participles
+Participles#*Mon*: **Composition 1** due.
 Participle morphology
-Review of participles and relative clauses
+Review of participles and relative clauses#*Fri*: **Quiz 2**.
 
 
 ## 4. Dependent clauses
 
 Purpose Clauses
 Purpose Clauses 2
-Result Clauses
+Result Clauses#*Fri*: **Translation 2** due.
 
 Review
 Causal Clauses
@@ -34,7 +33,7 @@ Concessive Clauses
 
 Composition workshop
 Fear Clauses
-Proviso Clauses
+Proviso Clauses#*Fri*: **Composition 2** due.
 
 Workshop
 Review of Dependent Clauses
