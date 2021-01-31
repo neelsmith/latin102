@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 1 vocabulary
-parent: "Vocabulary"
+parent: "Vocabulary lists"
 grand_parent: "Syllabus"
 nav_order: 1
 ---
