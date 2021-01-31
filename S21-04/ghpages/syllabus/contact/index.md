@@ -5,13 +5,18 @@ parent: Syllabus
 nav_order: 1
 ---
 
-All times are Eastern time.
 
 
-# Contact and schedule information
+
+
+
+# Contact and schedule
 
 **Instructor**: Neel Smith.  Email: at `holycross.edu`, user name `nsmith`
 
+
+
+All times are Eastern time.
 
 **Regular class meeting times**:   MWF 9:15-10:05
 
@@ -23,3 +28,6 @@ All times are Eastern time.
 
 
 In addition, you must enroll in one of the **CBL lab** sections (M 4:45-5:35 p.m., M 6:00-6:50 p.m. or Tu 8:00-8:50 a.m.)
+
+## Textbook
+

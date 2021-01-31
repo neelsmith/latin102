@@ -16,6 +16,4 @@ has_children: true
 - [resources](../resources/)
 - how to succeed
 - technologies
-
-
-Textbook: online [textbook and reference materials](https://lingualatina.github.io/textbook/).  The L3 textbook is the basic reference and textbook we will use this year.
+- textbook: online [textbook and reference materials](https://lingualatina.github.io/textbook/).  The L3 textbook is the basic reference and textbook we will use this year.
