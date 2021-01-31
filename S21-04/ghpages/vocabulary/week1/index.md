@@ -30,3 +30,14 @@ nav_order: 1
 
 ## Important verbs
 
+- capio, capĕre, cepi, captus: to seize
+- do, dare, dedi, datus: to give
+- duco, ducĕre, duxi, ductus: to lead
+- eo, ire, ii or ivi, -: to go
+- facio, facĕre, feci, factus: to make
+- fero, ferre, tuli, latus: to bear, carry
+- mitto, mittĕre, misi, missus: to send
+- pono, ponĕre, posui, positus: to place
+- sum, esse, fui, futurus: to be
+- venio, venire, veni ventus: to come
+- volo, velle, volui, -: to wish, want

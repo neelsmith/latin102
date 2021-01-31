@@ -16,24 +16,9 @@ nav_order: 0
 
 ## This week in summary
 
-- Review 
-- Vocabulary
-- Due dates this week:  [informational form](./checklist/infoform/), and [quiz 1](./checklist/quiz1/) both due on Friday, Feb. 5.
+- **Main language features**:   review from Latin 101 recognizing verb forms, noun-adjective agreement, prepositional phrases.
+- **Vocabulary**:  review and memorize [this vocabulary list](./vocabulary/week1/)
+- **Due dates this week**:  [informational form](./checklist/infoform/), and [quiz 1](./checklist/quiz1/) both due on Friday, Feb. 5.
 
 
 
-## Contact and schedule information
-
-- **Instructor**: Neel Smith.  Email: at `holycross.edu`, user name `nsmith`
-
-All times are Eastern time:
-
-
-- **Regular class meeting times**:   MWF 9:15-10:05
-- **Scheduled drop-in hours**: 
-    - Monday, 12:45-1:45
-    - Wednesday, 1:30-2:30
-    - Thursday, 9:30-11:00
-
-
-In addition, you must enroll in one of the **CBL lab** sections (M 4:45-5:35 p.m., M 6:00-6:50 p.m. or Tu 8:00-8:50 a.m.)
