@@ -3,6 +3,7 @@ layout: page
 title: Tools for reading Hyginus
 has_children: true
 parent: "Syllabus"
+nav_order: 4
 ---
 
 # Tools for reading Hyginus, *Fabulae*

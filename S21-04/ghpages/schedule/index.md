@@ -2,6 +2,7 @@
 layout: page
 title: Daily schedule
 nav_order: 2
+has_children:  true
 ---
 
 # Latin 102-04 S21: daily schedule
