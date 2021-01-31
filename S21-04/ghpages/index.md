@@ -17,6 +17,8 @@ nav_order: 0
 ## This week in summary
 
 - Review 
+- Vocabulary
+- Due dates this week:  [informational form](./checklist/infoform/), and [quiz 1](./checklist/quiz1/) both due on Friday, Feb. 5.
 
 
 
