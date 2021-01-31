@@ -11,7 +11,7 @@ nav_order: 2
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Feb. 1-Feb. 5 | [Welcome back!](../assignments/welcomeback/) | Verbs: [principal parts](../assignments/verbs/)  and vocabulary review| Review: [noun-adjective](../assignments/substantives/)  agreement |     *Fri*: [informational form](../checklist/infoform/) due. *Fri*: [**Quiz 1**](../checklist/quiz1/). |
+|Feb. 1-Feb. 5 | [Welcome back!](../assignments/welcomeback/) | Review: [principal parts](../assignments/verbs/) of verbs| Review: [noun-adjective](../assignments/substantives/)  agreement |     *Fri*: [informational form](../checklist/infoform/) due. *Fri*: [**Quiz 1**](../checklist/quiz1/). |
 |Feb. 8-Feb. 12 | Review: Pronouns | Recognizing verb forms| Verbs: future tense |     *Fri*: **Translation 1** due. |
 
 

@@ -12,7 +12,8 @@ nav_order: 2
 
 The following eleven verbs are verb common in all Latin texts.  In addition, many compounds are built on them: if you learn these verbs thoroughly, you will recognize a very large number of Latin verbs.
 
-Using [this core vocabulary list](https://lingualatina.github.io/textbook/vocabulary/verbs/ ), memorize the four principal parts for each verb:
+
+Using [this review list](../../vocabulary/week1/), memorize the four principal parts for each verb:
 
 - capio
 - do

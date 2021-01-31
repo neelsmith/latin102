@@ -5,4 +5,4 @@ parent: "Daily schedule"
 nav_order: 3
 ---
 
-# Review substantives
+# Review noun-adjective agreement
