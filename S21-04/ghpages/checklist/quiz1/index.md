@@ -21,7 +21,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 
 
 
-## Part 2: verbs
+## Part 2: recognizing verbs
 
 For each of the following verbs,
 
@@ -37,25 +37,15 @@ For each of the following verbs,
 6. interfecisset
 7. misit
 
+## Part 3:  Latin composition
 
-Translate the italicized verb forms into Latin.
+Translate (only) the italicized verb forms into Latin. E.g., if you were  given "Hercules *saw* Deianira," you could translate *saw* with *vidit*.
 
 1. Centaurs *are being killed* by Hercules. (*Use the present tense*)
 2. Centaurs *were being killed* by Hercules. (*Use the perfect tense*)
 3. Centaurs *were killed* by Hercules. (*Use the perfect tense*)
-4. When Hercules killed the Centaurs, 
+4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.)
+5. At the moment when Deianira *saw* Hercules' garment burst into flames, she realized the Centaur had lied to her.
+5.  Hercules *led* Deianira in marriage (i.e., he married her).
+6. Hercules repeatedly *asked* Eurytus for permission to marry Iole.
 
-
-1. Fill in the forms of duco in the 3rd person singular. Translate indicative and infinitive forms.
-
-
-
-2. Fill in the forms of paro in the 3rd person plural. Translate indicative and infinitive forms.
-
-
-
-
-3. Decline and then translate the following nouns.
-
-
-
