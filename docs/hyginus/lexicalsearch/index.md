@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Lexical search
-parent: "Hyginus"
+parent: "Tools for reading Hyginus"
+grand_parent:  Syllabus
 nav_order: 1
 ---
 

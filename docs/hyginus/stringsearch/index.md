@@ -1,8 +1,9 @@
 ---
 layout: page
 title: String search
-parent: "Hyginus"
 nav_order: 0
+parent: "Tools for reading Hyginus"
+grand_parent:  Syllabus
 ---
 
 # String search
