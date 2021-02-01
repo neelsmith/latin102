@@ -8,6 +8,12 @@ nav_order: 2
 # Review: verbs
 
 
+<div class='note'><h3>Nota Bene</h3>
+<p>Be sure you have your github password and username
+with you for Wednesday's class:  we'll take some time to set up a repository for your Latin 102 course material, and add a file for Friday's quiz 1.
+</p>
+</div>
+
 ## 1. Common compound verbs
 
 The following eleven verbs are verb common in all Latin texts.  In addition, many compounds are built on them: if you learn these verbs thoroughly, you will recognize a very large number of Latin verbs.
