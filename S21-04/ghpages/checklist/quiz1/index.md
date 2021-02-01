@@ -47,5 +47,45 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were  given 
 4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.)
 5. At the moment when Deianira *saw* Hercules' garment burst into flames, she realized the Centaur had lied to her.
 5.  Hercules *led* Deianira in marriage (i.e., he married her).
-6. Hercules repeatedly *asked* Eurytus for permission to marry Iole.
+1. Hercules repeatedly *asked* Eurytus for permission to marry Iole.
 
+
+## Submitting your assignment
+
+
+In your github repository, create a file named `quiz.md`.
+
+You can copy and paste this page in to set up a template for your submission.  Enter your answer next to each question.
+
+
+<div class="note">
+<h3>Tips for formatting your quiz in markdown</h3>
+
+<ul>
+<li>separate paragraphs with an empty line</li>
+<li>put list items on successive lines (no empty lines between items)
+</li>
+<li>for bulleted lists, start the line with `- `
+</li>
+<li>for numbered lists, start the line a number and a period.  (The markdown formatter will number items sequentially: you'll get the same results if you individually number each line, or start every line with `1.`.)</li>
+</ul>
+<p/>
+</div>
+
+
+
+  <style>
+.note { -moz-border-radius: 6px;
+     -webkit-border-radius: 6px;
+     background-color: #eee;
+     background-image: url(../Images/icons/Pencil-48.png);
+     background-position: 9px 0px;
+     background-repeat: no-repeat;
+     border: solid 1px black;
+     border-radius: 6px;
+     line-height: 18px;
+     overflow: hidden;
+     padding: 15px 60px;
+    font-style: italic;
+ }
+}</style>
