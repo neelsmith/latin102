@@ -1,6 +1,6 @@
 ## 1. Review of Latin 101
 
-[Welcome back!](../assignments/welcomeback/)
+[Welcome back!](../assignments/welcomeback/) <br/> *slides*: [tour](../assignments/welcomeback/sitetour.pdf) of course web site
 Review: [principal parts](../assignments/verbs/) of verbs#*Fri*: [informational form](../checklist/infoform/) due.
 Review: [noun-adjective](../assignments/substantives/)  agreement#*Fri*: [**Quiz 1**](../checklist/quiz1/).
 

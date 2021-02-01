@@ -9,13 +9,14 @@ nav_order: 0
 
 > In Latin 102, you encounter a historical language and culture, and engage with how that language and culture continue to shape structures of power today.
 
+
+Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045?pwd=eEtBL1FkUnJZcURCeE9ETmxtMk9lUT09)
+
 ## Announcements
-Welcome back!
 
-
-- **Feb. 1-2**: Refresh your memory of Latin by [trying these review questions before coming to class](assignments/welcomeback/)!
+- **Feb. 1**: Slides from class 1 added to course calendar. (I’ll do this regularly for classes with useful slide stacks.)
 - **Feb. 1-2**:   **No CBL lab** this week.  CBL lab begins Feb. 8/9.
-
+- [earlier announcements](./oldnews/)
 
 
 ## This week in summary

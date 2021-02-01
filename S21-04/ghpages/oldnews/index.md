@@ -7,4 +7,11 @@ nav_order: 100
 
 # Old news
 
-Nothing posted here yet.
+
+## Announcements
+
+- **Feb. 1-2**: Refresh your memory of Latin by [trying these review questions before coming to class](../assignments/welcomeback/)!
+
+## Weekly overviews
+
+None posted yet.
