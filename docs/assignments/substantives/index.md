@@ -25,7 +25,7 @@ In your github repository, list the nouns belonging to your theme in the file `n
 
 Use the search box below to find all the distinct forms of each word that actually appear in Hyginus.  For example, if you choose `aper1` ("wild boar"), you'll see that it appears in only two forms:  `apro` and `aprum`.
 
-Edit your file `nouns1.md`, and for each noun in your theme, list all the forms that occur, with full identification (gender, case, number).
+Edit your file `nouns1.md`, and for each noun in your theme, list all the forms that occur, with all possible identifications (gender, case, number).  
 
 
 ### Look up forms in Hyginus
