@@ -1,4 +1,3 @@
-id
 ls.n2294:amor
 ls.n2698:annus
 ls.n2976:aper1
