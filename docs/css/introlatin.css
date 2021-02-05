@@ -34,4 +34,17 @@
     text-decoration-line: underline;
     text-decoration-style: double;
 }
-  
+
+.note { -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    background-color: #eee;
+    background-image: url(../Images/icons/Pencil-48.png);
+    background-position: 9px 0px;
+    background-repeat: no-repeat;
+    border: solid 1px black;
+    border-radius: 6px;
+    line-height: 18px;
+    overflow: hidden;
+    padding: 15px 60px;
+   font-style: italic;
+}

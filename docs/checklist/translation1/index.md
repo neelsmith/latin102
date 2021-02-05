@@ -5,9 +5,6 @@ layout: page
 nav_order: 2
 ---
 
-> # ⚠️
-> **NB: *draft in progress***
-
 
 # Translation 1: wives of Hercules
 
@@ -64,9 +61,33 @@ Please translate the passgae into idiomatic English.
 
 ## Submitting your work
 
-TBA
 
 
+In your github repository, create a file named `translation1.md`.
+
+You can copy and paste this page in to set up a template for your submission.  Enter your answer next to each question.
+
+
+
+<div class="note">
+<h3>Tips for formatting your quiz in markdown</h3>
+
+<ul>
+<li>You can use the right angle bracket <code>></code> to indent a block of text</li>
+</ul>
+
+</div>
+
+
+<p><b>Example</b>:  these lines</p>
+<p><code>> When they saw the example,</code></p>
+<p><code>they understood how indentation works in markdown.</code></p>
+
+are formatted like this:
+
+>*When they saw the example,*
+
+*they understood how indentation works.*
 
 <style>
 code {
@@ -81,3 +102,4 @@ code {
 }
 </style>
 <link rel="stylesheet" type="text/css" href="../../css/introlatin.css">
+

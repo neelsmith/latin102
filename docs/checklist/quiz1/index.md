@@ -26,7 +26,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 For each of the following verbs,
 
 - identify the tense, voice, mood, person, and number.
-- if the form is singular, convert to plural; if the form is plural, convert to singular
+- if the form is finite (*not* an infinitive) and singular, convert to plural; if the form is finite and plural, convert to singular.
 
 
 1. petivisset
@@ -72,3 +72,4 @@ You can copy and paste this page in to set up a template for your submission.  E
 <p/>
 </div>
 
+<link rel="stylesheet" type="text/css" href="../../css/introlatin.css">
