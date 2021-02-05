@@ -12,8 +12,8 @@ has_children:  true
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Feb. 1-Feb. 5 | [Welcome back!](../assignments/welcomeback/) <br/> *[slides](../assignments/welcomeback/sitetour.pdf)* (tour of course web site) | Review: [principal parts](../assignments/verbs/) of verbs <br/> *[slides](../assignments/verbs/ghrepo.pdf)* (setting up a github repository)| Review: [noun-adjective](../assignments/substantives/)  agreement |     *Fri*: [informational form](../checklist/infoform/) due. *Fri*: [**Quiz 1**](../checklist/quiz1/). |
-|Feb. 8-Feb. 12 | Review: Pronouns | Recognizing verb forms| Verbs: future tense |     *Fri*: **Translation 1** due. |
+|Feb. 1-Feb. 5 | [Welcome back!](../assignments/welcomeback/) <br/> *[slides](../assignments/welcomeback/sitetour.pdf)* (tour of course web site) | Review: [principal parts](../assignments/verbs/) of verbs <br/> *[slides](../assignments/verbs/ghrepo.pdf)* (setting up a github repository)| Review: [noun-adjective](../assignments/substantives/)  agreement <br/> *[slides](../assignments/substantives/nounreview.pdf)* (fill in the blank) |     *Fri*: [informational form](../checklist/infoform/) due. *Fri*: [**Quiz 1**](../checklist/quiz1/). |
+|Feb. 8-Feb. 12 | Review: Pronouns | Recognizing verb forms| Verbs: future tense |     *Fri*: **[Translation 1](../checklist/translation1/)** due. |
 
 
 ## 2. Relative clauses

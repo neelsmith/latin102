@@ -14,8 +14,9 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
-- **Feb. 1**: Slides from class 1 added to course calendar. (I’ll do this regularly for classes with useful slide stacks.)
-- **Feb. 1-2**:   **No CBL lab** this week.  CBL lab begins Feb. 8/9.
+- **Feb. 5**: [breakout rooms today](./breakouts/)
+- **Feb. 5**: CBL lab sections begin next week *at the same times as last semester* (two on Monday, one on Tuesday, **not** on Wednesday as listed in STAR!)
+- **Feb. 5**: [first translation assignment now available](./checklist/translation1/)
 - [earlier announcements](./oldnews/)
 
 
