@@ -9,12 +9,25 @@ nav_order: 2
 # Week 2 vocabulary
 
 ## Fifth-declension nouns
+
 Only three fifth-declension nouns are common in Hyginus, but they are important:  learn these three nouns thoroughly.
 
 
 - dies, diei *m*: day
 - fides, fidei *f*: faith
 - res, rei *f*: thing, matter, affair
+
+## Fourth-declension nouns
+
+Learn these four  of the more frequent fourth-declension nouns in Hyginus:
+
+- currus, ūs, *m*: chariot
+- domus, ūs, *f*: house, home
+- genu, ūs, *n*: knee
+- impulsus, ūs, *m*: (striking against), influence, instigation
+
+
+
 
 ## Noun theme
 
