@@ -4,7 +4,7 @@
 Review: [principal parts](../assignments/verbs/) of verbs <br/> *[slides](../assignments/verbs/ghrepo.pdf)* (setting up a github repository) #*Fri*: [informational form](../checklist/infoform/) due.
 Review: [noun-adjective](../assignments/substantives/)  agreement <br/> *[slides](../assignments/substantives/nounreview.pdf)* (fill in the blank)#*Fri*: [**Quiz 1**](../checklist/quiz1/).
 
-Review: [Pronouns](../assignments/pronouns/)
+Review: [Pronouns](../assignments/pronouns/) <br/> *[slides](../assignments/pronouns/sot.pdf)* (sequence of tenses)
 [Noun forms](../assignments/5declensions/) in five declensions
 Verbs: [future](../assignments/future/) tense#*Fri*: **[Translation 1](../checklist/translation1/)** due.
 
