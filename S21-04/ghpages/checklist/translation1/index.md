@@ -38,13 +38,21 @@ Highlighting <span class='query'>like this</span> indicates words or phrases ref
 
 ## A. Grammatical analysis
 
-Place each clause on a separate line, indented to show its level of subordination.  Italicize the verb of each clause. For example, if you were given the English sentence, "They felt relieved when they realized that the translation was easy.", you would format it as
+Place each clause on a separate line, indented to show its level of subordination.  Italicize the verb of each clause by surrounding it with asterisks. For example, if you were given the English sentence, "They felt relieved when they realized that the translation was easy.", you could write that in markdown as
+
+```julia
+They *felt* relieved
+> when they *realized*
+>> that the translation *was* easy. 
+```
+
+and it would be formatted as
 
 `They` *felt* `relieved`
-
 > `when they` *realized*
-
 >> `that the translation` *was* `easy`.
+
+
 
 ## B. Grammatical questions
 
@@ -74,6 +82,7 @@ You can copy and paste this page in to set up a template for your submission.  E
 
 <ul>
 <li>You can use the right angle bracket <code>></code> to indent a block of text</li>
+<li>Surround a word or phrase with asterisks `*` to highlight it (with italics)</li>
 </ul>
 
 </div>
