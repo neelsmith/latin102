@@ -49,9 +49,9 @@ digraph sot {
     Tense_of_main_clause [shape = diamond];
 
     Past [shape = parallelogram];
-    Past [label = "Prior time"];
+    Past [label = "Secondary sequence (past tense)"];
     Present_or_future [shape = parallelogram];
-    Present_or_future [label = "Contemporary or later time"];
+    Present_or_future [label = "Primary sequence (present/future tense)"];
 
     secondary_time [label= "Time relation of subordinate clause"]
     secondary_time [shape=diamond];
@@ -71,7 +71,7 @@ digraph sot {
 
 
     Present_or_future[shape=parallelogram];
-    Present_or_future[label="Contemporary or later time"];
+    Present_or_future[label="Primary sequence (present/future tense)"];
 
 
     
