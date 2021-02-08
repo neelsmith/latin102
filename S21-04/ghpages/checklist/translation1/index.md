@@ -89,14 +89,17 @@ You can copy and paste this page in to set up a template for your submission.  E
 
 
 <p><b>Example</b>:  these lines</p>
-<p><code>> When they saw the example,</code></p>
-<p><code>they understood how indentation works in markdown.</code></p>
+<p><code>> When they *saw* the example,</code></p>
+<p><code>they *understood*</code></p> 
+<p><code>> how indentation *works* in markdown.</code></p>
 
 are formatted like this:
 
->*When they saw the example,*
+>*When they `saw` the example,*
 
-*they understood how indentation works.*
+*they `understood`*
+
+> *how indentation `works`.*
 
 <style>
 code {
