@@ -1,6 +1,6 @@
 digraph sot {
-    node [fontname = "Handlee"];
-    edge [fontname = "Handlee"];
+    node [fontname = "Chalkduster", colorscheme=accent3];
+    edge [fontname = "Chalkduster"];
 
 	Clause -> Time_or_circumstance;
     Time_or_circumstance -> Circumstance;
@@ -34,59 +34,62 @@ digraph sot {
     
     Time [shape=parallelogram];
     Circumstance [shape=parallelogram];
-    Subjunctive [shape=box, color=green];
+    Subjunctive [shape=box, color=yellowgreen, fontcolor=yellowgreen];
 
-    Indicative [shape=box, color=green];
+    Indicative [shape=box, color=yellowgreen, fontcolor=yellowgreen];
 	Normal_use_of_indicative_tense [shape=box];
-    Normal_use_of_indicative_tense [label="Tense: normal use of indicative tenses"]
-    Normal_use_of_indicative_tense[color=green];
+    Normal_use_of_indicative_tense [label="Normal use of \nindicative tenses", color=2, style=filled]
+    
 
 
-    Time_or_circumstance [ label = "Time or circumstance?"]
-    Time_or_circumstance [shape=diamond];
+    Time_or_circumstance [ label = "Time\nor\ncircumstance?"]
+    Time_or_circumstance [shape=diamond, color=3, style=filled];
 
-    Tense_of_main_clause [ label = "Tense of main clause?"]
-    Tense_of_main_clause [shape = diamond];
+    Tense_of_main_clause [ label = "Tense of\nmain clause?"]
+    Tense_of_main_clause [shape = diamond, color=3, style=filled];
 
     Past [shape = parallelogram];
-    Past [label = "Secondary sequence (past tense)"];
+    Past [label = "Secondary sequence\n(past tense)"];
     Present_or_future [shape = parallelogram];
-    Present_or_future [label = "Primary sequence (present/future tense)"];
+    Present_or_future [label = "Primary sequence\n(present/future tense)"];
 
-    secondary_time [label= "Time relation of subordinate clause"]
-    secondary_time [shape=diamond];
+    secondary_time [label= "Time relation\nof\nsubordinate clause"]
+    secondary_time [shape=diamond,color=3, style=filled];
 
     Secondary_contemporary[shape = parallelogram];
-    Secondary_contemporary[label = "Same time or later"];
+    Secondary_contemporary[label = "Same time\nor later"];
     Secondary_earlier[shape=parallelogram];
     Secondary_earlier[label="Earlier"];
 
-    primary_time [label= "Time relation of subordinate clause"]
-    primary_time [shape=diamond];
+    primary_time [label= "Time relation\nof\nsubordinate clause"]
+    primary_time [shape=diamond,color=3, style=filled];
 
     Primary_contemporary[shape = parallelogram];
-    Primary_contemporary[label = "Same time or later"];
+    Primary_contemporary[label = "Same time\nor later"];
     Primary_earlier[shape=parallelogram];
     Primary_earlier[label="Earlier"];
 
 
     Present_or_future[shape=parallelogram];
-    Present_or_future[label="Primary sequence (present/future tense)"];
+    Present_or_future[label="Primary sequence\n(present/future tense)"];
 
 
     
 
-    Present[shape=box, color=green];
-    Present[label="Tense: present"];
-    Imperfect[shape=box, color=green];
-    Imperfect[label="Tense: imperfect"];
-    Perfect[shape=box, color=green];
-    Perfect[label="Tense: perfect"];
-    Pluperfect[shape=box, color=green];
-    Pluperfect[label="Tense: pluperfect"];
+    Present[shape=box, color=2, style=filled];
+    Present[label="Present"];
+    Imperfect[shape=box, color=2, style=filled];
+    Imperfect[label="Imperfect"];
+    Perfect[shape=box, color=2, style=filled];
+    Perfect[label="Perfect"];
+    Pluperfect[shape=box, color=2, style=filled];
+    Pluperfect[label="Pluperfect"];
 
-    Subjunctive[label = "Mood:  subjunctive"]
-    Indicative[label = "Mood:  indicative"]
+    Subjunctive[label = "Subjunctive", color=1, style=filled]
+    Indicative[label = "Indicative", color=1, style=filled]
 
     Clause[label = "Temporal clause"]
+
+    keymood[shape=box,color=1, style=filled, label="Color key:\nmood"]
+    keytense[shape=box,color=2, style=filled, label="Color key:\ntense"]
 }
