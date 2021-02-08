@@ -1,0 +1,92 @@
+digraph sot {
+    node [fontname = "Handlee"];
+    edge [fontname = "Handlee"];
+
+	Clause -> Time_or_circumstance;
+    Time_or_circumstance -> Circumstance;
+    Time_or_circumstance -> Time;
+
+    
+    
+    Circumstance -> Subjunctive;
+    Indicative -> Normal_use_of_indicative_tense;
+    Subjunctive ->  Tense_of_main_clause;
+    Tense_of_main_clause -> Past;
+    Tense_of_main_clause -> Present_or_future;
+    Present_or_future -> primary_time;
+
+    primary_time -> Primary_contemporary;
+    primary_time -> Primary_earlier;
+
+    Past -> secondary_time;
+    secondary_time -> Secondary_contemporary;
+    secondary_time -> Secondary_earlier;
+    
+
+    Primary_contemporary -> Present;
+    Primary_earlier -> Perfect;
+    Secondary_contemporary -> Imperfect;
+    Secondary_earlier -> Pluperfect;
+
+    Time -> Indicative;
+
+	Clause [shape=box];
+    
+    Time [shape=parallelogram];
+    Circumstance [shape=parallelogram];
+    Subjunctive [shape=box, color=green];
+
+    Indicative [shape=box, color=green];
+	Normal_use_of_indicative_tense [shape=box];
+    Normal_use_of_indicative_tense [label="Tense: normal use of indicative tenses"]
+    Normal_use_of_indicative_tense[color=green];
+
+
+    Time_or_circumstance [ label = "Time or circumstance?"]
+    Time_or_circumstance [shape=diamond];
+
+    Tense_of_main_clause [ label = "Tense of main clause?"]
+    Tense_of_main_clause [shape = diamond];
+
+    Past [shape = parallelogram];
+    Past [label = "Prior time"];
+    Present_or_future [shape = parallelogram];
+    Present_or_future [label = "Contemporary or later time"];
+
+    secondary_time [label= "Time relation of subordinate clause"]
+    secondary_time [shape=diamond];
+
+    Secondary_contemporary[shape = parallelogram];
+    Secondary_contemporary[label = "Same time or later"];
+    Secondary_earlier[shape=parallelogram];
+    Secondary_earlier[label="Earlier"];
+
+    primary_time [label= "Time relation of subordinate clause"]
+    primary_time [shape=diamond];
+
+    Primary_contemporary[shape = parallelogram];
+    Primary_contemporary[label = "Same time or later"];
+    Primary_earlier[shape=parallelogram];
+    Primary_earlier[label="Earlier"];
+
+
+    Present_or_future[shape=parallelogram];
+    Present_or_future[label="Contemporary or later time"];
+
+
+    
+
+    Present[shape=box, color=green];
+    Present[label="Tense: present"];
+    Imperfect[shape=box, color=green];
+    Imperfect[label="Tense: imperfect"];
+    Perfect[shape=box, color=green];
+    Perfect[label="Tense: perfect"];
+    Pluperfect[shape=box, color=green];
+    Pluperfect[label="Tense: pluperfect"];
+
+    Subjunctive[label = "Mood:  subjunctive"]
+    Indicative[label = "Mood:  indicative"]
+
+    Clause[label = "Temporal clause"]
+}
