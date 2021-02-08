@@ -3,6 +3,20 @@
 ---
 
 
+# Overall
+
+- strong on forms!
+- review temporal clauses
+
+---
+
+# Revisions
+
+- come to drop-in hours
+- we'll look at corrections together
+
+---
+
 # Temporal clauses
 
 
@@ -84,5 +98,10 @@ When Hercules was away, Eurytion the centaur asked to marry Deianira.
 When Hercules asked for Eurytus' daughter in marriage, ...
 
 > Cum Hercules   Euryti filiam in coniugium petiuisset, ...
+
+---
+
+# As a [flowchart](https://neelsmith.github.io/latin102/imgs/sot.png)
+
 
 ---

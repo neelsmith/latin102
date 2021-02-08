@@ -21,12 +21,10 @@ Only three fifth-declension nouns are common in Hyginus, but they are important:
 
 Learn these four  of the more frequent fourth-declension nouns in Hyginus:
 
-- currus, ūs, *m*: chariot
-- domus, ūs, *f*: house, home
-- genu, ūs, *n*: knee
-- impulsus, ūs, *m*: (striking against), influence, instigation
-
-
+- currus, currūs, *m*: chariot
+- domus, domūs, *f*: house, home
+- genu, genūs, *n*: knee
+- impulsus, impulsūs, *m*: (striking against), influence, instigation
 
 
 ## Noun theme
