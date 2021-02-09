@@ -3,8 +3,8 @@ habeo: third singular future indicative active,habebit
 habeo: third singular future indicative passive,habebitur
 habeo: third singular present subjunctive active,habeat
 habeo: third singular present subjunctive passive,habeatur
-habeo: third singular present indiative active,habet
-habeo: third singular present indiative passive,habetur
+habeo: third singular present indicative active,habet
+habeo: third singular present indicative passive,habetur
 
 amo: third plural future indicative active,amabunt
 amo: third plural future indicative passive,amabuntur
@@ -27,12 +27,12 @@ duco: third singular future indicative passive,ducetur
 duco: third singular present subjunctive active,ducat
 duco: third singular present subjunctive passive,ducatur
 
-third singular present indicative active,videt
-third singular present indicative passive,videtur
-third singular future indicative active,videbit
-third singular future indicative passive,videbitur
-third singular present subjunctive active,videat
-third singular present subjunctive passive,videatur
+video: third singular present indicative active,videt
+video: third singular present indicative passive,videtur
+video: third singular future indicative active,videbit
+video: third singular future indicative passive,videbitur
+video: third singular present subjunctive active,videat
+video: third singular present subjunctive passive,videatur
 
 audio: third singular present indicative active,audit
 audio: third singular present indicative passive,auditur
