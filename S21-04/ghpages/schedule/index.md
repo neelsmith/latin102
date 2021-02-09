@@ -20,14 +20,14 @@ has_children:  true
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Feb. 15-Feb. 19 | Review translation 1 | Relative Clauses| Relative Clauses, 2 |      |
+|Feb. 15-Feb. 19 | Relative Clauses | Review translation 1| Relative Clauses, 2 |      |
 
 
 ## 3. Participles
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Feb. 22-Feb. 26 | Participles | Participle morphology| Review of participles and relative clauses |     *Mon*: **Composition 1** due. *Fri*: **Quiz 2**. |
+|Feb. 22-Feb. 26 | Participles | Participle morphology| Review of participles and relative clauses |     *Mon*: **[Composition 1](../checklist/composition1/)** due. *Fri*: **Quiz 2**. |
 
 
 ## 4. Dependent clauses

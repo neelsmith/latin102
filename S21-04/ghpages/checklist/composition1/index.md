@@ -5,16 +5,12 @@ layout: page
 nav_order: 3
 ---
 
-
-> # ⚠️
-> **NB: *draft in progress***
-
-
 # Composition 1: wives of Hercules
 
 ## Review
 
-- use of *ad* with the gerundive to express purpose
+- indirect statement
+- expressing circumstance and time with temporal clauses.  Use [this flow chart](../../imgs/sot.png) as a guide if you find it helpful. [<img src="../../imgs/sot.png" width="50"/>](../../imgs/sot.png)
 
 ## Background story
 
@@ -29,13 +25,13 @@ nav_order: 3
 
 1. Your composition should use all the vocabulary items listed below at least once.
 1. Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
-2. Your second sentence should that when her father Eurytus was unwilling, Hercules captured Oechalia.
-3. Your third sentence should include a purpose expression with the gerundive, and an indirect statement to express that Hercules, so that Iole would beg him, said that he would kill her parents.  
+2. Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
+3. Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
 4. Your fourth sentence should say that Iole endured that her parents were killed.
 5. Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
 
- ## Notes
+## Notes
 
  - *Iole* is a Greek name, and Hyginus uses the Greek form of her name in the accusative, *Iolen*.
 
@@ -51,4 +47,5 @@ nav_order: 3
 - *Oechalia, Oechaliae* (f.): the city Oechalia
 - *pater, patris* (m.)
 - *patior, pati, -, passus*: endure, suffer; can take a noun as direct object or an indirect statement construction
+- *quia* 
 - *rogo, rogare, rogavi, rogatus*: ask, beg
