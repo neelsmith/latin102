@@ -15,6 +15,7 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 ## Announcements
 
 
+- **Feb 9**: [week 2 drills](./checklist/drills/week2/) for future tense forms available
 - **Feb. 8**:  flow chart for determining tense and mood in temporal clauses [<img src="./imgs/sot.png" width="100">](./imgs/sot.png)
 - **Feb. 8**: If you have preferences for a topic in CBL lab projects, please notify Ainsley and Jack by Friday, Feb. 12.
 - **Feb. 8**: Repeating Zoom links for CBL labs:
@@ -28,7 +29,7 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 - **Main language features**: Review: class assignments review common pronouns and continue to review verb forms and constructions. New: fifth declension nouns; future indicative tense.
 - **Vocabulary**: learn (very short!) [week 2 vocabulary list](./vocabulary/week2/)
-- **Exercises**: drill verb forms; drill pronouns.
+- **Exercises**: [drill verb forms; drill nouns and pronoun](./checklist/drills/week2/).
 - **Due dates this week**:  [translation 1](./checklist/translation1/) due Friday
 
 
