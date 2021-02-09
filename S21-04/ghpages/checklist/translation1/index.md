@@ -23,6 +23,10 @@ nav_order: 2
 - *certus, a, um*: "settled, determined, fixed"
 - *intervenio* (*inter* + *venio*): "to come between, interrupt" (principal parts have the same forms as *venio*)
 
+Note:
+
+- *daturum* (with *esse* understood) is the *future active infinitive* of *do*.  Why does Hyginus use the infinitive here?
+
 ## Passage to analyze
 
 (Based on Hyginus, chapter 33.)
