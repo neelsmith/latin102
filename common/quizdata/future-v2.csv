@@ -1,0 +1,42 @@
+id,form
+habeo: third singular future indicative active,habebit
+habeo: third singular future indicative passive,habebitur
+habeo: third singular present subjunctive active,habeat
+habeo: third singular present subjunctive passive,habeatur
+habeo: third singular present indiative active,habet
+habeo: third singular present indiative passive,habetur
+
+amo: third plural future indicative active,amabunt
+amo: third plural future indicative passive,amabuntur
+amo: third plural present indicative active,amant
+amo: third plural present indicative passive,amantur
+amo: third plural present subjunctive active,ament
+amo: third plural present subjunctive passive,amentur
+
+capio: third singular present indicative active,capit
+capio: third singular present indicative passive,capitur
+capio: third singular future indicative active,capiet
+capio: third singular future indicative passive,capietur
+capio: third singular present subjunctive active,capiat
+capio: third singular present subjunctive passive,capiatur
+
+duco: third singular present indicative active,ducit
+duco: third singular present indicative passive,ducitur
+duco: third singular future indicative active,ducet
+duco: third singular future indicative passive,ducetur
+duco: third singular present subjunctive active,ducat
+duco: third singular present subjunctive passive,ducatur
+
+third singular present indicative active,videt
+third singular present indicative passive,videtur
+third singular future indicative active,videbit
+third singular future indicative passive,videbitur
+third singular present subjunctive active,videat
+third singular present subjunctive passive,videatur
+
+audio: third singular present indicative active,audit
+audio: third singular present indicative passive,auditur
+audio: third singular future indicative active,audiet
+audio: third singular future indicative passive,audiet
+audio: third singular present subjunctive active,audiat
+audio: third singular present subjunctive passive,audiatur
