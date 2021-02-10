@@ -32,6 +32,17 @@ Find these! Use them!
 
 ---
 
+
+# translate 1
+
+- indentation: how and why. PLUS  an udpated note on futur. infin.
+
+> quia pater eius centaurum timebat, pollicitus est se daturum.
+
+
+---
+
+
 # Last two declensions
  
 **THERE ARE NO FOURTH-FIFTH DECLENSION ADJECTIVES!**
@@ -101,6 +112,17 @@ Find these! Use them!
 - *res, rei* f: thing, matter, affair
 
 --- 
+
+medius dies -> meridies
+
+*ante meridiem*  **a.m.**
+
+
+*post meridiem*  **p.m.**
+
+---
+
+
 
 # Fourth declension: singular
 
