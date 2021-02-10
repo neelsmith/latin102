@@ -3,4 +3,4 @@
 
 *pollicitus est*
 
-> se daturum.
+> se *daturum*.
