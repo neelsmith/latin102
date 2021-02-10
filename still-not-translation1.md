@@ -1,6 +1,6 @@
 
 > quia pater eius centaurum *timebat*, 
 
-pollicitus est 
+*pollicitus est*
 
 > se daturum.
