@@ -5,6 +5,16 @@ parent: "Daily schedule"
 nav_order: 6
 ---
 
+# Class meeting for Friday, 2/19
+
+Familiarizing yourself with the future indicative, as presented here, is required. 
+
+Class meeting will be optional, and will be organized in two halves:
+
+- 9:15-9:40:  optional workshop for first-years and sophomores; drop in with any questions or work on written assignments you want to look at.
+- 9:40-10:05:  optional workshop for juniors; drop in with any questions or work on written assignments you want to look at.
+
+
 # The future indicative
 
 The future indicative tense expresses a confident statement that something *will* happen in the future.  The future tense exists only in the indicative: there is not future subjunctive.
