@@ -1,9 +1,5 @@
-Hercules 
+> quia pater eius centaurum timebat, 
 
-> cum in hospitium ad Dexamenum regem uenisset 
+pollicitus est 
 
-> eiusque filiam Deianiram deuirginasset, 
-
-volebat eam uxorem ducere. 
-
-cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem. 
+> se daturum.
