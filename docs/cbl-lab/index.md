@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CBL lab
-nav_order: 2
+nav_order: 3
 ---
 
 Repeating Zoom links for CBL labs:
