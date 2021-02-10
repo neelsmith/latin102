@@ -2,7 +2,7 @@
 layout: page
 title: Week 2 vocabulary
 parent: "Vocabulary lists"
-grand_parent: "Syllabus"
+grand_parent: "Material for review"
 nav_order: 2
 ---
 
@@ -23,7 +23,6 @@ Learn these four  of the more frequent fourth-declension nouns in Hyginus:
 
 - currus, currūs, *m*: chariot
 - domus, domūs, *f*: house, home
-- genu, genūs, *n*: knee
 - impulsus, impulsūs, *m*: (striking against), influence, instigation
 
 

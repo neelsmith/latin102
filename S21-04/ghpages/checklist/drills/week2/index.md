@@ -1,9 +1,9 @@
 ---
 title: Week 2 review
 parent: "Drills and exercises"
-grand_parent: "Checklist of assignments"
+grand_parent: "Material for review"
 layout: page
-nav_order: 1
+nav_order: 2
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Breakout rooms
-parent: "Daily schedule"
-nav_order: 101
+parent: "Material for review"
+nav_order: 3
 ---
 
 # Breakout rooms
