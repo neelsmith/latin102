@@ -1,5 +1,5 @@
 
-> quia pater eius centaurum timebat, 
+> quia pater eius centaurum *timebat*, 
 
 pollicitus est 
 
