@@ -14,7 +14,7 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
  
-**NB!  change to class plans!**: on Friday, Feb. 12, class time will be used for optional workshop sessions.  See updated assignment with [required and optional work](../assignments/future/)
+**NB!  change to class plans!**: on Friday, Feb. 12, class time will be used for optional workshop sessions.  See updated assignment with [required and optional work](./assignments/future/)
 
 
 - **Feb 11**: flow chart for understanding temporal clauses added to [review materials](../illustrations/)
