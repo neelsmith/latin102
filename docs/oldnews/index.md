@@ -11,6 +11,8 @@ nav_order: 100
 ## Announcements
 
 
+- **Feb 9**: [week 2 drills](./checklist/drills/week2/) for future tense forms available
+- **Feb. 8**:  [flow chart](./imgs/sot.png) for determining tense and mood in temporal clauses<br/> [<img src="./imgs/sot.png" width="70">](./imgs/sot.png)
 - **Feb. 8**: If you have preferences for a topic in CBL lab projects, please notify Ainsley and Jack by Friday, Feb. 12.
 - **Feb. 8**: Repeating Zoom links for CBL labs:
     - Monday 4:45 session: <https://holycross.zoom.us/j/94858327623>

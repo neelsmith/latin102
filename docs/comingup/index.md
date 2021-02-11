@@ -12,7 +12,7 @@ Feb. 15-19:
 
 - **Main language features**:  the relative pronoun and relative clauses.
 - **Vocabulary**:  TBA
-- **Exercises**:  TBA
+- **Exercises**:  drills on [relative clauses](../checklist/drills/week3/)
 - **Due dates this week**: none
 
 

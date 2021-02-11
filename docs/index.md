@@ -14,10 +14,11 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
  
- - **Feb 10**: change to class plans: Friday class now optional workshop sessions.  See updated assignment with [required and optional work](../assignments/future/)
+**NB!  change to class plans!**: on Friday, Feb. 12, class time will be used for optional workshop sessions.  See updated assignment with [required and optional work](../assignments/future/)
+
+
+- **Feb 11**: flow chart for understanding temporal clauses added to [review materials](../illustrations/)
  - **Feb 10**: *new section* in course web site:  materials to [help you review](../review/)
-- **Feb 9**: [week 2 drills](./checklist/drills/week2/) for future tense forms available
-- **Feb. 8**:  [flow chart](./imgs/sot.png) for determining tense and mood in temporal clauses<br/> [<img src="./imgs/sot.png" width="70">](./imgs/sot.png)
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
