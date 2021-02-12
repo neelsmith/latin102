@@ -1,12 +1,12 @@
 ---
-title: Week 1 review
+title: Exercises for week 1
 parent: "Drills and exercises"
 grand_parent: "Material for review"
 layout: page
 nav_order: 1
 ---
 
-# Exercises for week 1 review
+# Exercises for week 1
 
 - review prepositional phrases
 - review principal parts of verbs

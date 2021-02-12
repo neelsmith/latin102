@@ -1,5 +1,5 @@
 ---
-title: Week 2 review
+title: Exercises for week 2
 parent: "Drills and exercises"
 grand_parent: "Material for review"
 layout: page

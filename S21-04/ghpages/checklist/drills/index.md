@@ -10,3 +10,4 @@ has_children: true
 
 - [Week 1](./week1/):  drills with prepositional phrases and principal parts of verbs
 - [Week 2](./week1/):  drills with the future indicative
+- [Week 3](./week3/):  drills with relative clauses

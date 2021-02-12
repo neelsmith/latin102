@@ -20,7 +20,7 @@ has_children:  true
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Feb. 15-Feb. 19 | [Relative Clauses](../assignments/relative1/) | Review translation 1| Relative Clauses, 2 |      |
+|Feb. 15-Feb. 19 | [Relative Clauses](../assignments/relative1/) | Review translation 1| [Practice with relative clauses](../assignments/relative2/) |      |
 
 
 ## 3. Participles
