@@ -14,21 +14,51 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
  
-**NB!  change to class plans!**: on Friday, Feb. 12, class time will be used for optional workshop sessions.  See updated assignment with [required and optional work](./assignments/future/)
 
-
-- **Feb 11**: flow chart for understanding temporal clauses added to [review materials](./illustrations/)
- - **Feb 10**: *new section* in course web site:  materials to [help you review](./review/)
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
 ## This week in summary
 
-Feb. 8-12:
 
-- **Main language features**: class assignments review common pronouns and continue to review verb forms and constructions. New: fifth declension nouns; future indicative tense.
-- **Vocabulary**: learn (very short!) [week 2 vocabulary list](./vocabulary/week2/)
-- **Exercises**: [drill verb forms; drill nouns and pronouns](./checklist/drills/week2/).
-- **Due dates this week**:  [translation 1](./checklist/translation1/) due Friday
+Feb. 15-19:
 
 
+- **Main language features**:  the relative pronoun and relative clauses.  Use the chart below to review forms.
+- **Vocabulary**:  know the pronouns in this week's [vocabulary list](./vocabulary/week3/)
+- **Exercises**:  drills analyzing [relative clauses](../checklist/drills/week3/); synopses and principal parts.
+- **Due dates this week**: *none*
+
+
+
+### Forms of the relative pronoun
+
+Color coding highlights:
+
+- forms similar to <span class="decl2">first-second declension</span> adjectives.
+- forms similar to <span class="decl3">third declension</span> nouns and adjectives.
+- forms to pay <span class="attention2">special attention</span> to.
+
+Singular
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | qui      | quae      | quod       |
+| Genitive   | <span class="attention2">cuius</span>        | <span class="attention2">cuius</span>        | <span class="attention2">cuius</span>        |
+| Dative   | <span class="attention2">cui</span>        | <span class="attention2">cui</span>   | <span class="attention2">cui</span>        |
+| Accusative   | <span class="decl3">quem</span>        | <span class="decl2">quam</span>  | quod  |
+| Ablative   | <span class="decl2">quo</span>        | <span class="decl2">qua</span>  | <span class="decl2">quo</span>  |
+
+Plural
+
+| Case      | Masculine |Feminine |Neuter |
+| ----------- | ----------- | ----------- | ----------- |
+| Nominative    | <span class="decl2">qui</span>       | <span class="decl2">quae</span>       | <span class="decl2">quae</span>       |
+| Genitive   | <span class="decl2">quorum</span>        | <span class="decl2">quarum</span>  | <span class="decl2">quorum</span>  |
+| Dative   | <span class="decl3">quibus</span>        | <span class="decl3">quibus</span>    | <span class="decl3">quibus</span>    |
+| Accusative   | <span class="decl2">quos</span>        | <span class="decl2">quas</span>  | <span class="decl2">quae</span>  |
+| Ablative   | <span class="decl3">quibus</span>          | <span class="decl3">quibus</span>    |<span class="decl3">quibus</span>    |
+
+
+
+<link rel="stylesheet" type="text/css" href="./css/introlatin.css">
