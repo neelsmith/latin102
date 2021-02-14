@@ -1,3 +1,20 @@
+.decl2 {
+    text-decoration-line: underline; 
+    text-decoration-style: double;
+    text-decoration-color: green;
+}
+
+.decl3 {
+    text-decoration-line: underline; 
+    text-decoration-style: double;
+    text-decoration-color: orange;
+}
+
+.attention3 {
+    text-decoration-line: underline; 
+    text-decoration-style: double;
+    text-decoration-color: orange;
+}
 
 .verb {
     border: 2px solid green;
