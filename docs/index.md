@@ -26,7 +26,7 @@ Feb. 15-19:
 
 - **Main language features**:  the relative pronoun and relative clauses.  Use the chart below to review forms.
 - **Vocabulary**:  know the pronouns in this week's [vocabulary list](./vocabulary/week3/)
-- **Exercises**:  drills analyzing [relative clauses](../checklist/drills/week3/); synopses and principal parts.
+- **Exercises**:  [drills](../checklist/drills/week3/) analyzing relative clauses, and composing synopse.
 - **Due dates this week**: *none*
 
 
