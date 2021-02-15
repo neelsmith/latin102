@@ -10,8 +10,8 @@ has_children: true
 | Assignment | Due date | Last date for revisions |
 | --- | --- | --- |
 | [Initial informational form](./infoform/)  (on Google forms) | Feb. 5 | Feb. 5 |
-| [Quiz 1](./quiz1/) | Feb. 5 | Feb. 19 |
-| [Translation 1](./translation1/) | Feb. 12 | Feb. 24 |
+| [Quiz 1](./quiz1/) | Feb. 5 | Feb. 23 |
+| [Translation 1](./translation1/) | Feb. 12 | Feb. 25 |
 | [Composition 1](./composition1/) | Feb. 22 | Mar. 5|
 | Quiz 2 | Feb. 26 | *TBA* |
 | Translation 2 | Mar. 5 |  *TBA* |
