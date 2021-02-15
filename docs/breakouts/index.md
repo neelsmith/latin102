@@ -7,6 +7,28 @@ nav_order: 3
 
 # Breakout rooms
 
+
+## Monday, Feb. 15
+
+### Levels of subordination
+
+For each of the following two sentences:
+
+- place each clause on a separate line
+- prefix each clause with a `>` for each level of subordination.
+
+1. Hyginus says that Hercules killed Neleus when Neleus refused to purify him.
+2. When Deianira realized that Neleus had tricked her, she sent Lychas, who had given the poisoned garment to Hercules, to bring it back before he could put it on, but she was too late.
+
+
+### Composing relative clauses
+
+The following pairs of simple English sentences (that is, a single independent clause) have a noun in common. Combine them into one complex sentence by keeping the first sentence as the independent clause, and making the second sentence a relative clause.
+
+
+1. After Hercules killed Megara and their sons, Neleus was not willing to purify Hercules.  Neleus was then killed. 
+2. Hercules stole the Delphic tripod.  Jupiter ordered the tripod to be returned to Apollo.
+
 ## Friday, Feb. 5
 
 - Create a thematic list of at least four nouns.  You could choose a theme one of you prepared for today's class, or combine your ideas to form a new theme
