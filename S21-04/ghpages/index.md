@@ -14,7 +14,7 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
  
-
+- **Feb. 15**: deadlines for full-credit revisions to quiz 1 and translation 1 extended.  See [checklist](./checklist/) of assignments.
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
@@ -26,8 +26,8 @@ Feb. 15-19:
 
 - **Main language features**:  the relative pronoun and relative clauses.  Use the chart below to review forms.
 - **Vocabulary**:  know the pronouns in this week's [vocabulary list](./vocabulary/week3/)
-- **Exercises**:  [drills](../checklist/drills/week3/) analyzing relative clauses, and composing synopse.
-- **Due dates this week**: *none*
+- **Exercises**:  [drills](../checklist/drills/week3/) analyzing relative clauses, and composing synopses.
+- **Graded assignments due this week**: *none*
 
 
 
