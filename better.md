@@ -22,7 +22,7 @@ pollicitus est
 
 
 
-**B. Grammatical questions**
+**B. Grammatical questions** Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks.
 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.  
 - Dexamenus, Dexameni (m) 
