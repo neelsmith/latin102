@@ -35,4 +35,5 @@ Write a dictionary entry (nominative singular, genitive singular, gender) for De
 
 Identify the form abesset, and explain why it is this tense and mood
 
-third singular imperfect subjunctive active.  It is subjunctive because the temporal clause is emphasizing circumstance;  it is in the imperfect tense because the independent clause is in secondary sequence, and the event of the temporal clause is the same time or later than the independent clause.
+- third singular imperfect subjunctive active.  
+- It is subjunctive because the temporal clause is emphasizing circumstance;  it is in the imperfect tense because the independent clause is in secondary sequence, and the event of the temporal clause is the same time or later than the independent clause.
