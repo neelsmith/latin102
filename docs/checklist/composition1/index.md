@@ -47,5 +47,5 @@ nav_order: 3
 - *Oechalia, Oechaliae* (f.): the city Oechalia
 - *pater, patris* (m.)
 - *patior, pati, -, passus*: endure, suffer; can take a noun as direct object or an indirect statement construction
+- *peto, petĕre, petivi* or *petii, petitus*
 - *quia* 
-- *rogo, rogare, rogavi, rogatus*: ask, beg
