@@ -14,6 +14,8 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
+
+- **Feb. 17**:  [breakouts](./breakouts/)
 - **Feb. 17**: reminder:  you can always find the semester-long vocabulary lists [here](https://lingualatina.github.io/textbook/vocabulary/)
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
