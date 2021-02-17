@@ -14,9 +14,7 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
-
-- **Feb. 15**: [breakout rooms](./breakouts/) for today
-- **Feb. 15**: deadlines for full-credit revisions to quiz 1 and translation 1 extended.  See [checklist](./checklist/) of assignments.
+- **Feb. 17**: reminder:  you can always find the semester-long vocabulary lists [here](https://lingualatina.github.io/textbook/vocabulary/)
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 

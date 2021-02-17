@@ -11,9 +11,10 @@ nav_order: 100
 ## Announcements
 
 
-**NB!  change to class plans!**: on Friday, Feb. 12, class time will be used for optional workshop sessions.  See updated assignment with [required and optional work](./assignments/future/)
 
-
+- **Feb. 15**: [breakout rooms](../breakouts/) for today
+- **Feb. 15**: deadlines for full-credit revisions to quiz 1 and translation 1 extended.  See [checklist](../checklist/) of assignments.
+- **NB!  change to class plans!**: on Friday, Feb. 12, class time will be used for optional workshop sessions.  See updated assignment with [required and optional work](../assignments/future/)
 - **Feb 11**: flow chart for understanding temporal clauses added to [review materials](../illustrations/)
  - **Feb 10**: *new section* in course web site:  materials to [help you review](../review/)
 - **Feb 9**: [week 2 drills](../checklist/drills/week2/) for future tense forms available
