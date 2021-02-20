@@ -12,13 +12,13 @@ Verbs: [future](../assignments/future/) tense#*Fri*: **[Translation 1](../checkl
 
 [Relative Clauses](../assignments/relative1/)
 Review translation 1
-[Practice with relative clauses](../assignments/relative2/)
+[Practice with relative clauses](../assignments/relative2/)  <br/> *[slides](../assignments/relative2/indirectstatement.pdf)* (indirect statement)
 
 ## 3. Participles
 
-Participles#*Mon*: **[Composition 1](../checklist/composition1/)** due.
-Participle morphology
-Review of participles and relative clauses#*Fri*: **[Quiz 2](../checklist/quiz2/)** due.
+[Review](../assignments/relative3/) relative constructions#*Mon*: **[Composition 1](../checklist/composition1/)** due.
+Introduction to [participles](../assignments/participles1/)
+Participles morphology#*Fri*: **[Quiz 2](../checklist/quiz2/)** due.
 
 
 ## 4. Dependent clauses

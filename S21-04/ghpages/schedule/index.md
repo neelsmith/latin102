@@ -20,14 +20,14 @@ has_children:  true
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Feb. 15-Feb. 19 | [Relative Clauses](../assignments/relative1/) | Review translation 1| [Practice with relative clauses](../assignments/relative2/) |      |
+|Feb. 15-Feb. 19 | [Relative Clauses](../assignments/relative1/) | Review translation 1| [Practice with relative clauses](../assignments/relative2/)  <br/> *[slides](../assignments/relative2/indirectstatement.pdf)* (indirect statement) |      |
 
 
 ## 3. Participles
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Feb. 22-Feb. 26 | Participles | Participle morphology| Review of participles and relative clauses |     *Mon*: **[Composition 1](../checklist/composition1/)** due. *Fri*: **[Quiz 2](../checklist/quiz2/)** due. |
+|Feb. 22-Feb. 26 | [Review](../assignments/relative3/) relative constructions | Introduction to [participles](../assignments/participles1/)| Participles morphology |     *Mon*: **[Composition 1](../checklist/composition1/)** due. *Fri*: **[Quiz 2](../checklist/quiz2/)** due. |
 
 
 ## 4. Dependent clauses
