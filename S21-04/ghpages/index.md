@@ -14,11 +14,7 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
-
-- **Feb. 17**:  corrected instructions for [composition 1](./checklist/composition1/) now available.  <span class="giant">⚠️</span> Be sure you follow the corrected instrutions when you submit your composition!  
-- **Feb. 17**:  [breakouts](./breakouts/)
-- **Feb. 17**: reminder:  you can always find the semester-long vocabulary lists [here](https://lingualatina.github.io/textbook/vocabulary/)
-- **Feb. 17**: [Groups](./cbl-lab/groups/) for CBL lab projects posted
+- Updated schedule: review [relative clauses](./assignments/relative3/) for Monday, begin participles on Wednesday.
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
