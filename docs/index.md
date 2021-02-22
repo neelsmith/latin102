@@ -14,6 +14,7 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
+- [Breakouts](./breakouts/) for today
 - Updated schedule: review [relative clauses](./assignments/relative3/) for Monday, begin participles on Wednesday.
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
