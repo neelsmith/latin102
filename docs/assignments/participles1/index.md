@@ -91,4 +91,18 @@ English participles</b>!
 </div>
 
 
+## Class preparation
+
+Each of the following (English) sentences, is matched with a (Latin) participial express describing a <span class="highlighted">highlighted</span> noun or pronoun.  Suggest one or more possible translations for the Latin.
+
+
+1. <span class="highlighted">Hercules</span> brought the golden apples to Eurytheus.  *missus ab Eurystheo*
+2. Hercules nevertheless killed his wife <span class="highlighted">Megara</span>.*amatam*
+3. Hercules departed from <span class="highlighted">Oechalia</span>. *captam*
+4. Hercules sent <span class="highlighted">Iole</span> to Deianira. *abductam*
+5. Hercules rescued <span class="highlighted">Deianira</span>. *sublatam in aqua a Nesso centauro*.
+6. Deinira unwittingly killed Hercules with <span class="highlighted">the poison</span>.  *dato a Nesso*
+
+> Gloss: *venenum, i*, (n), "poison"
+
 <link rel="stylesheet" type="text/css" href="../../css/introlatin.css" />
