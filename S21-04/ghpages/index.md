@@ -14,51 +14,18 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
-- Updated schedule: review [relative clauses](./assignments/relative3/) for Monday, begin participles on Wednesday.
+- **Feb. 24**:  Please note changes to [daily schedule](./schedule/), and to [checklist of deadlines](./checklist/) for written assignments!
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
-## This week in summary
-
-
-Feb. 15-19:
-
-
-- **Main language features**:  the relative pronoun and relative clauses.  Use the chart below to review forms.
-- **Vocabulary**:  know the pronouns in this week's [vocabulary list](./vocabulary/week3/)
-- **Exercises**:  [drills](../checklist/drills/week3/) analyzing relative clauses, and composing synopses.
-- **Graded assignments due this week**: *none*
+## Current weeks in summary
 
 
 
-### Forms of the relative pronoun
-
-Color coding highlights:
-
-- forms similar to <span class="decl2">first-second declension</span> adjectives.
-- forms similar to <span class="decl3">third declension</span> nouns and adjectives.
-- forms to pay <span class="attention2">special attention</span> to.
-
-Singular
-
-| Case      | Masculine |Feminine |Neuter |
-| ----------- | ----------- | ----------- | ----------- |
-| Nominative    | qui      | quae      | quod       |
-| Genitive   | <span class="attention2">cuius</span>        | <span class="attention2">cuius</span>        | <span class="attention2">cuius</span>        |
-| Dative   | <span class="attention2">cui</span>        | <span class="attention2">cui</span>   | <span class="attention2">cui</span>        |
-| Accusative   | <span class="decl3">quem</span>        | <span class="decl2">quam</span>  | quod  |
-| Ablative   | <span class="decl2">quo</span>        | <span class="decl2">qua</span>  | <span class="decl2">quo</span>  |
-
-Plural
-
-| Case      | Masculine |Feminine |Neuter |
-| ----------- | ----------- | ----------- | ----------- |
-| Nominative    | <span class="decl2">qui</span>       | <span class="decl2">quae</span>       | <span class="decl2">quae</span>       |
-| Genitive   | <span class="decl2">quorum</span>        | <span class="decl2">quarum</span>  | <span class="decl2">quorum</span>  |
-| Dative   | <span class="decl3">quibus</span>        | <span class="decl3">quibus</span>    | <span class="decl3">quibus</span>    |
-| Accusative   | <span class="decl2">quos</span>        | <span class="decl2">quas</span>  | <span class="decl2">quae</span>  |
-| Ablative   | <span class="decl3">quibus</span>          | <span class="decl3">quibus</span>    |<span class="decl3">quibus</span>    |
+Feb. 24-Mar. 5:
 
 
-
-<link rel="stylesheet" type="text/css" href="./css/introlatin.css">
+- **Main language features**:  the perfect passive participle; the present active participle; the ablative absolute.
+- **Vocabulary**:  TBA
+- **Exercises**:  TBA
+- **Due dates this week**:quiz 2 due Monday, Mar. 1.

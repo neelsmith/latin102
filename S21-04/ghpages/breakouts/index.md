@@ -8,7 +8,21 @@ nav_order: 3
 # Breakout rooms
 
 
-## Monday, Feb. 17
+## Monday, Feb. 22
+
+
+Breakout 1: turn one complex sentence into two simple sentences:
+
+- take each sentence [last Friday](../assignments/relative2/)'s exercise:  rewrite it as *two* sentences
+
+
+Breakout 2: using today's exercises, [here](../assignments/relative3/):
+
+1. rewrite  each sentence as *two* sentences
+2. translate the two independent sentences
+3. translate the original complex sentence
+
+## Wednesday, Feb. 17
 
 
 For your assigned sentence, decide:

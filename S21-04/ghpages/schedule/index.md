@@ -27,33 +27,33 @@ has_children:  true
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Feb. 22-Feb. 26 | [Review](../assignments/relative3/) relative constructions | Introduction to [participles](../assignments/participles1/)| Participles morphology |     *Mon*: **[Composition 1](../checklist/composition1/)** due. *Fri*: **[Quiz 2](../checklist/quiz2/)** due. |
+|Feb. 22-Feb. 26 | [Review](../assignments/relative3/) relative constructions | Introduction to [participles](../assignments/participles1/)| Review Quiz 2 |     *Mon*: **[Composition 1](../checklist/composition1/)** due. |
+|Mar. 1-Mar. 5 | Workshop composition 1 | The present participle| The ablative absolute |     *Mon*: **[Quiz 2](../checklist/quiz2/)** due. |
 
 
-## 4. Dependent clauses
+## 4. Purpose, result, indirect questions
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Mar. 1-Mar. 5 | Purpose Clauses | Purpose Clauses 2| Result Clauses |     *Fri*: **Translation 2** due. |
-|Mar. 8-Mar. 12 | Review | Causal Clauses| Concessive Clauses |      |
-|Mar. 15-Mar. 19 | Composition workshop | Fear Clauses| Proviso Clauses |     *Fri*: **Composition 2** due. |
-|Mar. 22-Mar. 26 | Workshop | Review of Dependent Clauses| Review of Dependent Clauses 2 |      |
-|Mar. 29-Apr. 2 | Commands | Review| **no class: Easter break** |   **Easter break (Fri.)**   |
-|Apr. 5-Apr. 9 | **no class: Easter break** | Indirect Question| Review |   **Easter break (Mon.)**   |
+|Mar. 8-Mar. 12 | Review participles | Purpose Clauses| Reviewing purpose using *ad* + the gerundive |      |
+|Mar. 15-Mar. 19 | Result Clauses | Translation 2 workshop| Review purpose and result clauses |     *Mon. and Tues.*: critique of presentations in CBL labs *Fri*: **Translation 2** due. |
+|Mar. 22-Mar. 26 | Workshop composition 2 | Review of Dependent Clauses| Review of Dependent Clauses 2 |     *Wed*: **Composition 2** due. |
+|Mar. 29-Apr. 2 | Indirect questions | Review| *no class: Easter break* |   **Easter break (Fri.)**  *Wed*: **Quiz 3** due |
+|Apr. 5-Apr. 9 | *no class: Easter break* | Indirect commands| Review all subordinate verbal constructions |   **Easter break (Mon.)**   |
 
 
 ## 5. Conditions
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Apr. 12-Apr. 16 | Indicative Conditions | Subjunctive Conditions| Optative subjunctive and potential subjunctive |      |
+|Apr. 12-Apr. 16 | Workshop translation 3 | Indicative and subjunctive conditions| Optative subjunctive and potential subjunctive |     *Wed*: **Translation 3** due |
 
 
 ## 6. Reading unaltered Latin
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Apr. 19-Apr. 23 | Comparatives and superlatives | 4th and 5th declensions| Translation Workshop |      |
-|Apr. 26-Apr. 30 | Introduction to reading in Hyginus | *Academic conference*| Reading in Hyginus |   **Academic conference (Wed.)**   |
-|May. 3-May. 7 | Reading in Hyginus | Reading in Hyginus| Reading in Hyginus |      |
+|Apr. 19-Apr. 23 | Comparatives and superlatives | Introduction to reading in Hyginus| Translation Workshop |     *Mon*: **Composition 3** due |
+|Apr. 26-Apr. 30 | Reading in Hyginus | *Academic conference*| Reading in Hyginus |   **Academic conference (Wed.)**   |
+|May. 3-May. 7 | Reading in Hyginus | Reading in Hyginus| Reading in Hyginus |   **Last day of classes (Fri.)**   |
 
