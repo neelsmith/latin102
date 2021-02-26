@@ -18,7 +18,7 @@ Check one verb of the first or second conjugation **other than*8 *amo* or *habeo
 - present infinitive active
 - third plural imperfect subjunctive active
 - third plural perfect indicative active
-- perfect active infinitive 
+- perfect infinitive  passive
 - third plural pluperfect subjunctive active
 
 
