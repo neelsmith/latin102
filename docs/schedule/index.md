@@ -28,7 +28,7 @@ has_children:  true
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
 |Feb. 22-Feb. 26 | [Review](../assignments/relative3/) relative constructions | Introduction to [participles](../assignments/participles1/)| Review Quiz 2 |     *Mon*: **[Composition 1](../checklist/composition1/)** due. |
-|Mar. 1-Mar. 5 | Workshop composition 1 | The present participle| The ablative absolute |     *Mon*: **[Quiz 2](../checklist/quiz2/)** due. |
+|Mar. 1-Mar. 5 | What kind of hero is [Hercules](../assignments/hercules/)? | The [present participle](../assignments/presentparticiple/)| The [ablative absolute](../assignments/absolute/) |     *Mon*: **[Quiz 2](../checklist/quiz2/)** due. |
 
 
 ## 4. Purpose, result, indirect questions
