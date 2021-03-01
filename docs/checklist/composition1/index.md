@@ -19,6 +19,8 @@ Some common questions that came up in work on composition 1:
     2. you use the accusative case for the subject
     3. if the subject is the *same* as the subject of main verb, remember to use the reflexive pronoun *se* rather than a form of *is, ea, id*.
     4. if you are using a perfect passive infinitive or a future active infinitive, remember that since those compound infinitive forms are using the infinitive *esse* with an adjective, the adjective must agree in gender and number with the accusative subject of the infinitive.
+- *Greek names*.  Like Latin, Greek nouns had cases, so Latin speakers often just used Greek nouns in their Greek form!  Iole is one of those names:  her nominative is *Iole*, her Greek accusative is *Iolen*; if you need to refer to her in another case in your composition, you should use a good Latin pronoun that you already know!
+
 
 ## Review
 
