@@ -11,7 +11,7 @@ Breaking down complex sentences with relative clause:
 
 ---
 
-# Formula
+# Complex sentence from two simple sentences
 
 
 1. find overlapping noun (or phrase)
@@ -19,5 +19,15 @@ Breaking down complex sentences with relative clause:
 3. move to front of English clause
 4. determine where to place in main sentence
 
+
+---
+
+
+# Analyzing a complex sentence
+
+
+1. Find antecedent of relative pronoun
+2. Rewrite relative clause as independent sentence by substituting antecedent for relative pronoun
+3. Determine what function (and in Latin, case) the noun is
 
 ---
