@@ -26,7 +26,7 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 
 - **Mar. 1**: we'll use [this Google jamboard](https://jamboard.google.com/d/1bOjqn6yoBIM5w43ZcTKn3jOkrAuMZlLBna_ifRA8DX4/edit?usp=sharing) in class today.
-- **Mar. 1**: last date to revise composition 1: Mar. 11.  **NB**: notes to help you revise now added to assignment [instructions](./checklist/composition1/).
+- **Mar. 1**: last date to revise composition 1: *Mar. 11*.  **NB**: notes to help you revise now added to assignment [instructions](./checklist/composition1/).
 - **Feb. 26**:  Required vocabulary and practice drills for weeks 4 and 5 now posted. (See links below in [summary](./#current-unit-in-summary) of current unit.)
 - **Feb. 24**:  Please note changes to [daily schedule](./schedule/), and to [checklist of deadlines](./checklist/) for written assignments!
 - [earlier announcements](./oldnews/)
