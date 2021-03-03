@@ -24,9 +24,7 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
-
-- **Feb. 26**:  Required vocabulary and practice drills for weeks 4 and 5 now posted. (See links below in [summary](./#current-unit-in-summary) of current unit.)
-- **Feb. 24**:  Please note changes to [daily schedule](./schedule/), and to [checklist of deadlines](./checklist/) for written assignments!
+- **March 2**: important updates to [CBL lab](./cbl-lab/) plans and schedules, including updated plans for [final project](./cbl-lab/project/).
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
