@@ -17,6 +17,21 @@ nav_order: 5
 
 ## Vocabulary and notes
 
+- expressing possession with the dative
+
+- *auxilium, auxilii* (n): "aid, help"
+- *configo, configĕre, configi, confixi*: "pierce, transfix"
+- *fel, fellis* (n): "bile or poisonous liquid"
+- *fides, fidei* (f): "faith; trustworthiness;  protection or help"
+- *flumen, fluminis* (n): "river"
+- *imploro, implorare, imploravi, imploratus*: "beg with tears, implore"
+- *philtrum, i* (n): "love potion"
+- *rogo, rogare, rogavi, rogatus*: "to ask for"; can take two direct objects: the person you're asking, and the thing you're asking for
+- *sanguis, sanguinis* (m): "blood"
+- *tingo, tingĕre, tinxi, tinctus*: "soak in"
+- *transeo* < *trans* + *eo* : "to cross"
+- *violo, violare, violavi, violatus*: "injure, do violence to, rape"
+- *vis, vis* (f): "strenght, potency, power"
 
 
 ## Passage to analyze
@@ -25,9 +40,9 @@ nav_order: 5
 
 Highlighting <span class='query'>like this</span> indicates words or phrases referred to in the following grammatical questions.
 
-Deianira, uxor Herculis, flumen magnum, cui nomen Evenus erat, non poterat transire, et centaurum Nessum, qui filius Ixionis et Nubis erat, auxilium rogavit.  Hic Deianiram sublatam in flumine ipso uiolare uoluit. huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
+> Deianira, uxor Herculis, flumen magnum, cui nomen Evenus erat, non poterat transire, et centaurum Nessum, qui filius Ixionis et Nubis erat, auxilium rogavit.  Hic Deianiram sublatam in flumine ipso uiolare uoluit. huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
 
-ille moriens, cum sciret sagittas hydrae Lernaeae felle tinctas magnam uim habere, sanguinem suum exceptum Deianirae dedit et id philtrum esse dixit.
+> ille moriens, cum sciret sagittas Hydrae Lernaeae felle tinctas magnam uim habere, sanguinem suum exceptum Deianirae dedit et id philtrum esse dixit.
 
 
 ## A. Grammatical analysis
@@ -51,7 +66,7 @@ You can copy and paste this page in to set up a template for your submission.  E
 > **Please include questions as well as your answers**. 
 
 
-fel, fellis, n
+
 
 
 <style>
