@@ -35,7 +35,7 @@ has_children:  true
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Mar. 8-Mar. 12 | Review participles | Purpose Clauses| Reviewing purpose using *ad* + the gerundive |      |
+|Mar. 8-Mar. 12 | Review [participles](../assignments/wkshoptrans2/) | Purpose Clauses| Reviewing purpose using *ad* + the gerundive |      |
 |Mar. 15-Mar. 19 | Result Clauses | Translation 2 workshop| Review purpose and result clauses |     *Mon. and Tues.*: critique of presentations in CBL labs *Fri*: **Translation 2** due. |
 |Mar. 22-Mar. 26 | Workshop composition 2 | Review of Dependent Clauses| Review of Dependent Clauses 2 |     *Wed*: **Composition 2** due. |
 |Mar. 29-Apr. 2 | Indirect questions | Review| *no class: Easter break* |   **Easter break (Fri.)**  *Wed*: **Quiz 3** due |
