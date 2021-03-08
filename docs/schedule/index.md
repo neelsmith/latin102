@@ -28,14 +28,14 @@ has_children:  true
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
 |Feb. 22-Feb. 26 | [Review](../assignments/relative3/) relative constructions | Introduction to [participles](../assignments/participles1/)| Review Quiz 2 |     *Mon*: **[Composition 1](../checklist/composition1/)** due. |
-|Mar. 1-Mar. 5 | What kind of hero is [Hercules](../assignments/hercules/)? | The [present participle](../assignments/presentparticiple/) <br/> *[slides](../assignments/presentparticiple/absolute.pdf)| The [ablative absolute](../assignments/absolute/) |     *Mon*: **[Quiz 2](../checklist/quiz2/)** due. |
+|Mar. 1-Mar. 5 | What kind of hero is [Hercules](../assignments/hercules/)? | The [present participle](../assignments/presentparticiple/) <br/> [slides](../assignments/presentparticiple/absolute.pdf)| The [ablative absolute](../assignments/absolute/) |     *Mon*: **[Quiz 2](../checklist/quiz2/)** due. |
 
 
 ## 4. Purpose, result, indirect questions
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Mar. 8-Mar. 12 | Review [participles](../assignments/wkshoptrans2/) | Purpose Clauses| Reviewing purpose using *ad* + the gerundive |      |
+|Mar. 8-Mar. 12 | Review [participles](../assignments/wkshoptrans2/) | Review the [ablative absolute](../assignments/absolute/)| TBA |      |
 |Mar. 15-Mar. 19 | Result Clauses | Translation 2 workshop| Review purpose and result clauses |     *Mon. and Tues.*: critique of presentations in CBL labs *Fri*: **Translation 2** due. |
 |Mar. 22-Mar. 26 | Workshop composition 2 | Review of Dependent Clauses| Review of Dependent Clauses 2 |     *Wed*: **Composition 2** due. |
 |Mar. 29-Apr. 2 | Indirect questions | Review| *no class: Easter break* |   **Easter break (Fri.)**  *Wed*: **Quiz 3** due |
