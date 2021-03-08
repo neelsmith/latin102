@@ -11,7 +11,7 @@ has_children: true
 | --- | --- | --- |
 | [Initial informational form](./infoform/)  (on Google forms) | Feb. 5 | Feb. 5 (*closed*) |
 | [Quiz 1](./quiz1/) | Feb. 5 | Feb. 23  (*closed*) |
-| [Translation 1](./translation1/) | Feb. 12 | Mar. 2 |
+| [Translation 1](./translation1/) | Feb. 12 | Mar. 2 (*closed*) |
 | [Composition 1](./composition1/) | Feb. 22 | Mar. 11|
 | [Quiz 2](./quiz2/) | Mar. 1| Mar. 25 |
 | [Translation 2](./translation2/) | Mar. 19 | Apr. 7|
