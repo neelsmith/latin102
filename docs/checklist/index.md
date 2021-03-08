@@ -15,7 +15,7 @@ has_children: true
 | [Composition 1](./composition1/) | Feb. 22 | Mar. 11|
 | [Quiz 2](./quiz2/) | Mar. 1| Mar. 25 |
 | [Translation 2](./translation2/) | Mar. 19 | Apr. 7|
-| Composition 2 | Mar. 19 |  Apr. 7 |
+| Composition 2 | Mar. 26 |  Apr.  12 |
 | Quiz 3 | Mar. 31 | Apr. 26 |
 | Translation 3 | Apr. 14 |  Apr. 26  |
 | Composition 3 | Apr. 19  |  May 3 |
