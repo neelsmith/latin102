@@ -24,7 +24,7 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
-
+- **March 8**:  7:00 tonight: joint CBL meeting with Stephanie Lindeborg ‘13. [Zoom link](https://holycross.zoom.us/j/99226233099).
 - **March 5**: initial draft of [translation 2](./checklist/translation2/) available
 - **March 2**: important updates to [CBL lab](./cbl-lab/) plans and schedules, including updated plans for [final project](./cbl-lab/project/).
 - [earlier announcements](./oldnews/)
