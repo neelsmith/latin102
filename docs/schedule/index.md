@@ -36,24 +36,24 @@ has_children:  true
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
 |Mar. 8-Mar. 12 | Review [participles](../assignments/wkshoptrans2/) | Review the [ablative absolute](../assignments/absolute/)| [Language around you](../assignments/walk/) |      |
-|Mar. 15-Mar. 19 | Result Clauses | Translation 2 workshop| Review purpose and result clauses |     *Mon. and Tues.*: critique of presentations in CBL labs *Fri*: **Translation 2** due. |
-|Mar. 22-Mar. 26 | Workshop composition 2 | Review of Dependent Clauses| Review of Dependent Clauses 2 |     *Wed*: **Composition 2** due. |
-|Mar. 29-Apr. 2 | Indirect questions | Review| *no class: Easter break* |   **Easter break (Fri.)**  *Wed*: **Quiz 3** due |
-|Apr. 5-Apr. 9 | *no class: Easter break* | Indirect commands| Review all subordinate verbal constructions |   **Easter break (Mon.)**   |
+|Mar. 15-Mar. 19 | Introducing purpose and result | *[Vita Sancti Patricii](../assignments/patrick/)*| Translation 2 workshop |     *Mon. and Tues.*: critique of presentations in CBL labs **[Translation 2](../checklist/translation2/)** due. |
+|Mar. 22-Mar. 26 | Workshop composition 2 | Review of Dependent Clauses| Review of Dependent Clauses 2 |      |
+|Mar. 29-Apr. 2 | Indirect questions | Review| *no class: Easter break* |   **Easter break (Fri.)**  Mon: **[Composition 2](../checklist/composition2/)** due |
+|Apr. 5-Apr. 9 | *no class: Easter break* | Indirect commands| Review all subordinate verbal constructions |   **Easter break (Mon.)**  Wed: **Quiz 3** due |
 
 
 ## 5. Conditions
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Apr. 12-Apr. 16 | Workshop translation 3 | Indicative and subjunctive conditions| Optative subjunctive and potential subjunctive |     *Wed*: **Translation 3** due |
+|Apr. 12-Apr. 16 | Workshop translation 3 | Indicative and subjunctive conditions| Optative subjunctive and potential subjunctive |     Wed: **Translation 3** due |
 
 
 ## 6. Reading unaltered Latin
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Apr. 19-Apr. 23 | Comparatives and superlatives | Introduction to reading in Hyginus| Translation Workshop |     *Mon*: **Composition 3** due |
+|Apr. 19-Apr. 23 | Comparatives and superlatives | Introduction to reading in Hyginus| Translation Workshop |     Mon: Wed: **Composition 3** due |
 |Apr. 26-Apr. 30 | Reading in Hyginus | *Academic conference*| Reading in Hyginus |   **Academic conference (Wed.)**   |
 |May. 3-May. 7 | Reading in Hyginus | Reading in Hyginus| Reading in Hyginus |   **Last day of classes (Fri.)**   |
 
