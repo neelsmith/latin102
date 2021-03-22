@@ -8,6 +8,14 @@ nav_order: 3
 # Breakout rooms
 
 
+## Monday, March 22
+
+Analyze and translate, then rewrite with a purpose clause:
+
+> *Ulixes cum Diomede ad Iphigeniam missus est adducendam*
+
+
+
 ## Monday, Feb. 22
 
 
