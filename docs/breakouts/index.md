@@ -8,6 +8,18 @@ nav_order: 3
 # Breakout rooms
 
 
+## Friday, March 26
+
+
+Background: Deianira ordered the servant Lychas to take the garment she had dipped in Nessus' potion to Hercules.  Later,  a few drops of the potion spilled on the ground, and burst into flames!
+
+
+Sentence to analyze:
+
+ 
+> *Deianira cum uidit, Nessum falsum dixisse intellexit, et Lycham  qui revocaret vestem misit.*
+
+
 ## Monday, March 22
 
 Analyze and translate, then rewrite with a purpose clause:
