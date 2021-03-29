@@ -8,6 +8,31 @@ nav_order: 3
 # Breakout rooms
 
 
+## Monday, March 29
+
+Use this vocabulary:
+
+*trans* + *eo* : "pass, cross, pass by"
+
+*quis*, indefinite pronoun, "any one" (masc.nom.s.)
+
+*dormio, dormire, dormivi, dormitus* "to sleep"
+
+*vestigium, vestigii* (n): "footstep, step, sole of the foot"
+
+*afflo, afflare, afflavi, afflatus* "blow or breathe on"
+
+
+And this summary tenses in subjunctive conditions:
+
+| Condition |  tense |
+| --- |  --- |
+| Future less vivid | present subjunctive |
+| Present contrary to fact | imperfect subjunctive |
+| Past contrary to fact | pluperfect subjunctive |
+
+
+
 ## Friday, March 26
 
 
