@@ -16,7 +16,6 @@ has_children: true
 | [Quiz 2](./quiz2/) | Mar. 1| Mar. 25 |
 | [Translation 2](./translation2/) | Mar. 19 | Apr. 7|
 | [Composition 2](./composition2/) | Mar. 29 |  Apr.  12 |
-| Quiz 3 | Apr. 7 | Apr. 26 |
-| Translation 3 | Apr. 14 |  Apr. 26  |
-| Composition 3 | Apr. 19  |  May 3 |
+| Quiz 3 | Apr. 23 | May 11 |
+| Translation 3 | Apr. 30  |  May 11  |
 | Commentary/response | *TBA* | May 7 |

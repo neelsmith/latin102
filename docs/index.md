@@ -24,9 +24,9 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
-- **Fri., Mar. 26**:  [breakout rooms](./breakouts)
-- **Wed., Mar. 17**:  sight reading day!  Reading a seventh-century biography of [St. Patrick](./assignments/patrick/)
-- **Wed., Mar. 17**:  updates to course schedule
+- Updated [schedule of classes](./schedule/) and [due dates](./checklist/):
+    - composition 3 dropped 
+    - translation 3 to be handed out next week
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
