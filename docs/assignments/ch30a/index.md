@@ -18,3 +18,4 @@ nav_order: 2
 
 ## Glosses and notes
 
+*duabus* irregular form of *duo, duae, ,duo*, "two": fem.abl.pl.
