@@ -24,6 +24,8 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
+
+- New section to course web site!  [Reading Hyginus](./reading/)
 - Updated [schedule of classes](./schedule/) and [due dates](./checklist/):
     - composition 3 dropped 
     - translation 3 to be handed out next week
@@ -32,4 +34,6 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Current unit in summary
 
-Weeks of Mar. 15-26:  expressions of purpose; result  clauses
+Beginning Friday, April 9: continuous reading in Hyginus, *Fabulae*
+
+- 
