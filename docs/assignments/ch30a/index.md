@@ -25,3 +25,14 @@ Title to the whole chapter:
 *duabus* irregular form of *duo, duae, ,duo*, "two": fem.abl.pl.
 
 *unde* a subordinating conjunction, "from where" ("whence" in Victorian lexicon speak!)
+
+
+## Syntactic analysis
+
+> Infans cum esset, 
+
+dracones duos duabus manibus necauit, 
+
+> quos Iuno miserat, 
+
+>> unde primigenius est dictus

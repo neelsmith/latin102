@@ -39,14 +39,14 @@ has_children:  true
 |Mar. 15-Mar. 19 | Introducing purpose and result | *[Vita Sancti Patricii](../assignments/patrick/)*| Translation 2 workshop |     *Mon. and Tues.*: critique of presentations in CBL labs **[Translation 2](../checklist/translation2/)** due. |
 |Mar. 22-Mar. 26 | Workshop composition 2 | Review of Dependent Clauses| Review of Dependent Clauses 2 |      |
 |Mar. 29-Apr. 2 | Indirect questions | Review| *no class: Easter break* |   **Easter break (Fri.)**  Mon: **[Composition 2](../checklist/composition2/)** due |
-|Apr. 5-Apr. 9 | *no class: Easter break* | Comparative and superlative degree| Introducion to sight reading |   **Easter break (Mon.)**   |
+|Apr. 5-Apr. 9 | *no class: Easter break* | Comparative and superlative degree| Introducion to [sight reading](../reading/) |   **Easter break (Mon.)**   |
 
 
 ## 5. Reading unaltered Latin
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Apr. 12-Apr. 16 | Hyginus, [chapter 30](../assignments/ch30a/): the deeds of Hercules | Workshop Quiz 3| Reading in Hyginus |      |
+|Apr. 12-Apr. 16 | Hyginus, [chapter 30](../assignments/ch30b/): the deeds of Hercules | Workshop Quiz 3| Reading in Hyginus |      |
 |Apr. 19-Apr. 23 | Workshop Translation 3 | Reading in Hyginus| Reading in Hyginus |     Fri: Quiz 3 due |
 |Apr. 26-Apr. 30 | Reading in Hyginus | *Academic conference*| Reading in Hyginus |   **Academic conference (Wed.)**  Fri: Translation 3 due |
 |May. 3-May. 7 | Reading in Hyginus | Reading in Hyginus| Reading in Hyginus |   **Last day of classes (Fri.)**   |
