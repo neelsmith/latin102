@@ -24,12 +24,10 @@ nav_order: 5
 - *fel, fellis* (n): "bile or poisonous liquid"
 - *fides, fidei* (f): "faith; trustworthiness;  protection or help"
 - *flumen, fluminis* (n): "river"
-- *huc*, adverb: "to this place" (Victorian English: "hither" 😀)
 - *imploro, implorare, imploravi, imploratus*: "beg with tears, implore"
 - *philtrum, i* (n): "love potion"
 - *rogo, rogare, rogavi, rogatus*: "to ask for"; can take two direct objects: the person you're asking, and the thing you're asking for
 - *sanguis, sanguinis* (m): "blood"
-- *sagitta, sagittae* (f): "arrow"
 - *tingo, tingĕre, tinxi, tinctus*: "soak in"
 - *transeo* < *trans* + *eo* : "to cross"
 - *violo, violare, violavi, violatus*: "injure, do violence to, rape"
@@ -42,9 +40,9 @@ nav_order: 5
 
 Highlighting <span class='query'>like this</span> indicates words or phrases referred to in the following grammatical questions.
 
-> Deianira, uxor Herculis, flumen magnum, <span class='query'>cui</span> nomen Evenus erat, non poterat <span class='query'>transire</span>, et centaurum Nessum, qui filius Ixionis et Nubis erat, auxilium rogavit.  Hic Deianiram <span class='query'>sublatam</span> in flumine ipso uiolare uoluit. huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum <span class='query'>sagittis</span> confixit.
+> Deianira, uxor Herculis, flumen magnum, cui nomen Evenus erat, non poterat transire, et centaurum Nessum, qui filius Ixionis et Nubis erat, auxilium rogavit.  Hic Deianiram sublatam in flumine ipso uiolare uoluit. huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
 
-> ille <span class='query'>moriens</span>, cum sciret sagittas Hydrae Lernaeae <span class='query'>felle</span> <span class='query'>tinctas</span> magnam vim habere, sanguinem suum <span class='query'>exceptum</span> Deianirae dedit et id philtrum esse dixit.
+> ille moriens, cum sciret sagittas Hydrae Lernaeae felle tinctas magnam uim habere, sanguinem suum exceptum Deianirae dedit et id philtrum esse dixit.
 
 
 ## A. Grammatical analysis
@@ -55,15 +53,7 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 ## B. Grammatical questions
 
-1. Identify the antecedent of *cui*, and its gender and number. Then explain what case *cui* is, and how it functions in the relative clause. (I.e., why is *cui* in this case?)
-2. Identify the form of *transire*.  Explain why you placed it in the clause you chose.
-3. *sublatam* is from a verb that is a compound of *sub* plus a verb you should know very well.  Identify the form of this participle (which for participles means: gender, case, number, tense voice).  Find the dictionary entry for this word in thed [Lewis-Short's *Latin Dictionary*](http://folio2.furman.edu/lewis-short/index.html), and give its URN here.
-4.  Identify the form of *sagittis*.  Why does Hyginus use this case?
-5.  Identify the form of *moriens*.  
-6.  Identify *felle*.  Why does Hyginus use this case?
-7.  Identify the form of *tinctas*.
-8.  Identify the form of *exceptum*.
-9.  William Faulkner's novel *As I lay dying* takes its title from an English translation of a single word in *Odyssey* 11.424.  In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle.  Suggest one or more possible translations of Faulkner's title into Latin.
+
 
 ## Submitting your work
 
