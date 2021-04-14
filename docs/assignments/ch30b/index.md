@@ -22,3 +22,18 @@ Photograph of metope from Temple of Zeus, Olympia | `3` Hydram Lernaeam Typhonis
 *quicquid* neut. nom./acc. sg. from *quisquis*, a relative pronoun meaning "whoever", "each and every one"
 
 *unde* refer to note on [section 1](../ch30a/)
+
+## Syntax
+
+`2`
+
+Leonem Nemeum, 
+
+> quem Luna nutrierat in antro amphistomo atrotum, 
+
+necauit, 
+
+> cuius pellem pro tegumento habuit.
+
+
+`3` TBA
