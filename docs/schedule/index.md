@@ -28,32 +28,33 @@ has_children:  true
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
 |Feb. 22-Feb. 26 | [Review](../assignments/relative3/) relative constructions | Introduction to [participles](../assignments/participles1/)| Review Quiz 2 |     *Mon*: **[Composition 1](../checklist/composition1/)** due. |
-|Mar. 1-Mar. 5 | What kind of hero is [Hercules](../assignments/hercules/)? | The [present participle](../assignments/presentparticiple/) <br/> *[slides](../assignments/presentparticiple/absolute.pdf)| The [ablative absolute](../assignments/absolute/) |     *Mon*: **[Quiz 2](../checklist/quiz2/)** due. |
+|Mar. 1-Mar. 5 | What kind of hero is [Hercules](../assignments/hercules/)? | The [present participle](../assignments/presentparticiple/) <br/> [slides](../assignments/presentparticiple/absolute.pdf)| The [ablative absolute](../assignments/absolute/) |     *Mon*: **[Quiz 2](../checklist/quiz2/)** due. |
 
 
-## 4. Purpose, result, indirect questions
-
-| Week | Mon     |  Wed     |  Fri     | Notes |
-| :------------- | :------------- |:------------- | :-------------| :-------------|
-|Mar. 8-Mar. 12 | Review participles | Purpose Clauses| Reviewing purpose using *ad* + the gerundive |      |
-|Mar. 15-Mar. 19 | Result Clauses | Translation 2 workshop| Review purpose and result clauses |     *Mon. and Tues.*: critique of presentations in CBL labs *Fri*: **Translation 2** due. |
-|Mar. 22-Mar. 26 | Workshop composition 2 | Review of Dependent Clauses| Review of Dependent Clauses 2 |     *Wed*: **Composition 2** due. |
-|Mar. 29-Apr. 2 | Indirect questions | Review| *no class: Easter break* |   **Easter break (Fri.)**  *Wed*: **Quiz 3** due |
-|Apr. 5-Apr. 9 | *no class: Easter break* | Indirect commands| Review all subordinate verbal constructions |   **Easter break (Mon.)**   |
-
-
-## 5. Conditions
+## 4. Purpose, result, conditions
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Apr. 12-Apr. 16 | Workshop translation 3 | Indicative and subjunctive conditions| Optative subjunctive and potential subjunctive |     *Wed*: **Translation 3** due |
+|Mar. 8-Mar. 12 | Review [participles](../assignments/wkshoptrans2/) | Review the [ablative absolute](../assignments/absolute/)| [Language around you](../assignments/walk/) |      |
+|Mar. 15-Mar. 19 | Introducing purpose and result | *[Vita Sancti Patricii](../assignments/patrick/)*| Translation 2 workshop |     *Mon. and Tues.*: critique of presentations in CBL labs **[Translation 2](../checklist/translation2/)** due. |
+|Mar. 22-Mar. 26 | Workshop composition 2 | Review of Dependent Clauses| Review of Dependent Clauses 2 |      |
+|Mar. 29-Apr. 2 | Indirect questions | Review| *no class: Easter break* |   **Easter break (Fri.)**  Mon: **[Composition 2](../checklist/composition2/)** due |
+|Apr. 5-Apr. 9 | *no class: Easter break* | Comparative and superlative degree| Introducion to [sight reading](../reading/) |   **Easter break (Mon.)**   |
 
 
-## 6. Reading unaltered Latin
+## 5. Reading unaltered Latin
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Apr. 19-Apr. 23 | Comparatives and superlatives | Introduction to reading in Hyginus| Translation Workshop |     *Mon*: **Composition 3** due |
-|Apr. 26-Apr. 30 | Reading in Hyginus | *Academic conference*| Reading in Hyginus |   **Academic conference (Wed.)**   |
+|Apr. 12-Apr. 16 | Hyginus, [chapter 30](../assignments/ch30b/): the deeds of Hercules | Workshop Quiz 3| Reading in Hyginus |      |
+|Apr. 19-Apr. 23 | Workshop Translation 3 | Reading in Hyginus| Reading in Hyginus |     Fri: Quiz 3 due |
+|Apr. 26-Apr. 30 | Reading in Hyginus | *Academic conference*| Reading in Hyginus |   **Academic conference (Wed.)**  Fri: Translation 3 due |
 |May. 3-May. 7 | Reading in Hyginus | Reading in Hyginus| Reading in Hyginus |   **Last day of classes (Fri.)**   |
+
+
+## Reading and exam period
+
+| Week | Mon     |  Wed     |  Fri     | Notes |
+| :------------- | :------------- |:------------- | :-------------| :-------------|
+|May. 10-May. 14 | *Reading period* | *Exam period*| *Exam period* |     **Tuesday, May 11**: last day to submit revisions to assignments |
 
