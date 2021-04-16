@@ -23,6 +23,8 @@ Photograph of metope from Temple of Zeus, Olympia | `3` Hydram Lernaeam Typhonis
 
 *unde* refer to note on [section 1](../ch30a/)
 
+*itaque* a coordinating conjunction, "so, and so"
+
 ## Syntax
 
 `2`
