@@ -8,6 +8,26 @@ nav_order: 3
 # Breakout rooms
 
 
+## Fri., Apr. 16
+
+Section 3 of chapter 30 has *four* sentences.  
+
+1. Find the indepedent (main) clause in each sentence.
+2. Make a vocab list for the main clauses only.
+3. Translate the main clauses only.
+
+Here's how they break down:
+
+
+`a`. Hydram Lernaeam Typhonis filiam cum capitibus nouem ad fontem Lernaeum interfecit. 
+
+`b`. haec tantam uim ueneni habuit ut afflatu homines necaret, et si quis eam dormientem transierat, uestigia eius afflabat et maiori cruciatu moriebatur. 
+
+`c`. hanc Minerua monstrante interfecit et exinterauit et eius felle sagittas suas tinxit; 
+
+`d`. itaque quicquid postea sagittis fixerat, mortem non effugiebat, unde postea et ipse periit in Phrygia.
+
+
 ## Monday, March 22
 
 Analyze and translate, then rewrite with a purpose clause:
