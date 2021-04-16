@@ -14,7 +14,7 @@ Section 3 of chapter 30 has *four* sentences.
 
 1. Find the indepedent (main) clause in each sentence.
 2. Make a vocab list for the main clauses only.
-3. Translate the main clauses only.
+3. Translate the main clauses only.  If your main clause is long, focus first on the most basic components: subject, verb, direct object (if any).  Add adjectives, adverbs, prepositional phrases, or other descriptive vocabulary only after you've understand the basic structure of the sentence.
 
 Here's how they break down:
 
