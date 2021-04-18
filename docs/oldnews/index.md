@@ -14,6 +14,9 @@ nav_order: 100
 
 - **Friday, Apr. 16**: reading in [breakout rooms](./breakouts/)
 - New section to course web site!  [Reading Hyginus](./reading/)
+- Updated [schedule of classes](./schedule/) and [due dates](./checklist/):
+    - composition 3 dropped 
+    - translation 3 to be handed out next week
 - **Mar. 1**: we'll use [this Google jamboard](https://jamboard.google.com/d/1bOjqn6yoBIM5w43ZcTKn3jOkrAuMZlLBna_ifRA8DX4/edit?usp=sharing) in class today.
 - **Mar. 1**: last date to revise composition 1: *Mar. 11*.  **NB**: notes to help you revise now added to assignment [instructions](../checklist/composition1/).
 - **Feb. 26**:  Required vocabulary and practice drills for weeks 4 and 5 now posted. (See links below in [summary](../#current-unit-in-summary) of current unit.)
