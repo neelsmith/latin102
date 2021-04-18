@@ -46,8 +46,8 @@ has_children:  true
 
 | Week | Mon     |  Wed     |  Fri     | Notes |
 | :------------- | :------------- |:------------- | :-------------| :-------------|
-|Apr. 12-Apr. 16 | Hyginus, [chapter 30](../assignments/ch30b/): the deeds of Hercules | Workshop Quiz 3| Reading in Hyginus |      |
-|Apr. 19-Apr. 23 | Workshop Translation 3 | Reading in Hyginus| Reading in Hyginus |     Fri: Quiz 3 due |
+|Apr. 12-Apr. 16 | Hyginus, [chapter 30](../assignments/ch30b/): the deeds of Hercules | Workshop [Quiz 3](../checklist/quiz3/)| Reading in Hyginus |      |
+|Apr. 19-Apr. 23 | Workshop [Translation 3](../checklist/translation3/) | Reading in Hyginus| Reading in Hyginus |     Fri: Quiz 3 due |
 |Apr. 26-Apr. 30 | Reading in Hyginus | *Academic conference*| Reading in Hyginus |   **Academic conference (Wed.)**  Fri: Translation 3 due |
 |May. 3-May. 7 | Reading in Hyginus | Reading in Hyginus| Reading in Hyginus |   **Last day of classes (Fri.)**   |
 
