@@ -48,7 +48,7 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 ## C. Literary commentary
 
-Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discus briefly s in 3-4 sentences. Italicize Latin words when citing them.
+Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
 
 
