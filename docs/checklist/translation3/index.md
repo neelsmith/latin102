@@ -5,7 +5,7 @@ layout: page
 nav_order: 8
 ---
 
-# Translation 3: Hercules' sixth task
+# Translation 3: Three labors of Hercules
 
 
 
