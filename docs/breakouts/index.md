@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Fri., Apr. 16
 
-Section 3 of chapter 30 has *four* sentences.  
+Section 3 of chapter 30 has *four* sets of main sentences (either individual sentences, or multiple main sentences joined by `et`).  
 
 1. Find the indepedent (main) clause in each sentence.
 2. Make a vocab list for the main clauses only.
