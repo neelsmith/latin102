@@ -48,7 +48,11 @@ haec tantam uim ueneni habuit
 
 et 
 
-> si quis eam dormientem transierat, 
+> si quis eam 
+
+>> dormientem 
+
+> transierat, 
 
 uestigia eius afflabat 
 
