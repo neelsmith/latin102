@@ -37,4 +37,37 @@ necauit,
 > cuius pellem pro tegumento habuit.
 
 
-`3` TBA
+`3` 
+
+Hydram Lernaeam Typhonis filiam cum capitibus nouem ad fontem Lernaeum interfecit. 
+
+
+haec tantam uim ueneni habuit 
+
+> ut afflatu homines necaret, 
+
+et 
+
+> si quis eam dormientem transierat, 
+
+uestigia eius afflabat 
+
+et maiori cruciatu moriebatur. 
+
+hanc 
+
+>  Minerua monstrante 
+
+interfecit 
+
+et exinterauit 
+
+et eius felle sagittas suas tinxit; 
+
+itaque 
+
+> quicquid postea sagittis fixerat, 
+
+mortem non effugiebat, 
+
+> unde postea et ipse periit in Phrygia
