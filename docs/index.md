@@ -24,13 +24,13 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 ## Announcements
 
-
-- **April 18**: [Translation 3](./checklist/translation3/) available.
+- deadlines for final submissions: discussed in class, Fri. April 30
 - [earlier announcements](./oldnews/)
 - [notes from breakout sessions](./breakouts/)
 
 ## Current unit in summary
 
-Beginning Friday, April 9: continuous reading in Hyginus, *Fabulae*
-
-- 
+- Friday, April 30:  complete Hyginus 30.4-30.6
+- Monday, May 3:  use Hyginus 36 as a guide to revise composition 2.
+- Wednesday, May 5: Hyginus 30.7-30.9 (== workshop translation 3)
+- Friday, May 7:  Reflection
