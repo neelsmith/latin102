@@ -53,6 +53,10 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
 
+## D. Translation
+
+Please translate the passgae into idiomatic English.
+
 
 
 ## Submitting your work
