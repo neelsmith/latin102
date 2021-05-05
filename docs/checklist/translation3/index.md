@@ -55,7 +55,7 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 ## D. Translation
 
-Please translate the passgae into idiomatic English.
+Please translate the passage into idiomatic English.
 
 
 

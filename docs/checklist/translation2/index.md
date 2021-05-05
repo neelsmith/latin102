@@ -67,7 +67,7 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 ## C. Translation
 
 
-Please translate the passgae into idiomatic English.
+Please translate the passage into idiomatic English.
 
 
 ## Submitting your work
