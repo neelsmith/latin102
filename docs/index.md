@@ -23,6 +23,10 @@ Zoom for [class meetings MWF 9:15-10:05](https://holycross.zoom.us/j/96104492045
 
 
 
+## Apply to be a TA for Latin 101-102!
+
+You can use [this Google form](https://forms.gle/kses7RZV6LD8ZLYi7).  Please complete by May 17.
+
 ## Extra end-of-semester drop-in hours
 
 - Friday, May 7: [1:00-2:30](https://holycross.zoom.us/j/92267686469)
