@@ -1,7 +1,7 @@
 ---
 title: "Uolo at a glance"
-parent: "Review material from Latin 101"
-
+grand_parent: "Review material from Latin 101"
+parent: "Key irregular verbs"
 layout: page
 nav_order: 22
 has_children: true

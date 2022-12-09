@@ -1,11 +1,11 @@
 ---
-title: "Key irregular forms"
+title: "Key irregular verbs"
 
-parent: "Other resources and review"
+parent: "Review material from Latin 101"
 layout: page
-nav_order: 1
+nav_order: 10
 has_children: true
 ---
 
 
-# Key irregular forms
+# Key irregular verbs
