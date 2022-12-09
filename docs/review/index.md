@@ -1,8 +1,7 @@
 ---
 title: "Review material from Latin 101"
-parent: "Latin 102: home page"
 layout: page
-nav_order: 0
+nav_order: 10
 has_children: true
 ---
 
