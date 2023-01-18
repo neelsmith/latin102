@@ -1,18 +1,18 @@
 ---
-title: "Schedule"
+title: "Daily schedule"
 layout: page
 nav_order: 1
 has_children: true
 ---
 
+## Daily schedule
 
 Deadlines to note:
 
 
 - ✏️ Class preparation includes written preparation to be submitted the previous day by 5:00 pm
-- 🗣️ Deadline for completing oral assignment in individual meeting outside of class
 - 📜  Portfolio assignment due
-- ⚠️ Last day to revise submissions for a course module
+
 
 
 
@@ -31,8 +31,8 @@ Deadlines to note:
 | *Mar 13*, *Mar 15*, *Mar 17* | class | class | class | **Mon**: *Classes resume.* |
 | *Mar 20*, *Mar 22*, *Mar 24* | class | class | class |  |
 | *Mar 27*, *Mar 29*, *Mar 31* | class | class | class |  |
-| *Apr 3*, *Apr 5*, *Apr 7* | class | class | *Easter break* | **Wed**: *Last class before Easter break.* |
-| *Apr 10*, *Apr 12*, *Apr 14* | *Easter break* | class | class | **Tue**: *Classes resume.* |
+| *Apr 3*, *Apr 5*, *Apr 7* | class | class | ***Easter break*** | **Wed**: *Last class before Easter break.* |
+| *Apr 10*, *Apr 12*, *Apr 14* | ***Easter break*** | class | class | **Tue**: *Classes resume.* |
 | *Apr 17*, *Apr 19*, *Apr 21* | class | class | class |  |
 | *Apr 24*, *Apr 26*, *Apr 28* | class | *no class: Academic Conference* | class | **Wed**: *Academic conference.* |
 | *May 1*, *May 3*, *May 5* | class | class | class |  |

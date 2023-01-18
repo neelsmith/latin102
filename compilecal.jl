@@ -10,20 +10,20 @@ sched = courseSchedule(calfile, topics)
 md = mdcalendar(sched)
 
 hdg = """---
-title: "Schedule"
+title: "Daily schedule"
 layout: page
 nav_order: 1
 has_children: true
 ---
 
+## Daily schedule
 
 Deadlines to note:
 
 
 - ✏️ Class preparation includes written preparation to be submitted the previous day by 5:00 pm
-- 🗣️ Deadline for completing oral assignment in individual meeting outside of class
 - 📜  Portfolio assignment due
-- ⚠️ Last day to revise submissions for a course module
+
 
 
 
