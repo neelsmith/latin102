@@ -9,9 +9,10 @@ nav_order: 1
 
 **Instructor**: Neel Smith.  **Email**: at `holycross.edu`, user name `nsmith`
 
-**Regular class meeting times**:  MWF 11:00-11:50, Stein 304.  
+**Regular class meeting times**:  MWF 11:00-11:50, Fenwick 420.  
 
-**Scheduled drop-in hours**:  Tuesday 10:00-11:30, Wednesday 12:00-1:30,Friday, 12:30-2:00, in Fenwick 415, or anytime by appointment.
+**Regular drop-in hours (S23)**:  Monday 12:00-1:00, Wednesday 12:30-2:00, Thursday, 12:00-2:00, in Fenwick 415, or anytime by appointment.
+
 
 **Manuscripts, Inscriptions and Documents Club**:  Friday, 2:00 pm - ?, fourth floor of Fenwick Hall.
 

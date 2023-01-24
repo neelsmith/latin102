@@ -7,7 +7,7 @@ nav_order: 2
 
 # Goals
 
-Latin 101 is the first semester of a two-semester sequence to introduce you to the study of Latin.  We will use a curriculum recently developed by several members of our Classics department at Holy Cross, led by [Professor Machado](https://dominicmachado.github.io). By the end of this course, you will be able to:
+Latin 102 is the continuation of Latin 101.  We will use a curriculum recently developed by several members of our Classics department at Holy Cross, led by [Professor Machado](https://dominicmachado.github.io). By the end of this course, you will be able to:
 
 - identify ways that  language structures our understanding of the world we live in
 - articulate how Latin has shaped and continues to shape structures of power in the modern world
