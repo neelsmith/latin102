@@ -1,33 +1,34 @@
-## Review
+## Welcome back!
 
 
 
 *no classes*
+[Welcome back!](../assignments/welcomeback/) 
+Review of substantantives and introduction to CBL
+
+
+Review: [principal parts](../assignments/verbs/) of verbs
 class
 class
 
 
+## Relative clauses
+
+[Relative clauses](../assignments/relative1/)
 class
+[Relative clauses, 2](../assignments/relative2/)
+
+
+[Relative clauses, 3](../assignments/relative3/)
+
 class
 class
 
 
+## Participles
 
-
-class
-class
-class
-
-
-class
-class
-class
-
-
-
-
-class
-class
+[Participles](../assignments/participles1/)
+[The present participle](../assignments/presentparticiple/)
 class
 
 
@@ -43,10 +44,12 @@ class
 ***spring break***
 
 
-class
+[Purpose](../assignments/)
 class
 class
 
+
+## Purpose and result
 
 class
 class
@@ -63,6 +66,9 @@ class
 class
 class
 ***Easter break***
+
+
+## Reading unaltered Latin
 
 ***Easter break***
 class
