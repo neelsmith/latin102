@@ -4,6 +4,7 @@ documentclass: "article"
 ---
 
 
+# Syllabus
 
 
 
@@ -12,9 +13,9 @@ documentclass: "article"
 
 **Instructor**: Neel Smith.  **Email**: at `holycross.edu`, user name `nsmith`
 
-**Regular class meeting times**:  MWF 11:00-11:50, Stein 304.
+**Regular class meeting times**:  MWF 11:00-11:50, Fenwick 420.
 
-**Scheduled drop-in hours**:  Tuesday 10:00-11:30, Wednesday 12:00-1:30,Friday, 12:30-2:00, in Fenwick 415, or anytime by appointment.
+**Regular drop-in hours (S23)**:  Monday 12:00-1:00, Wednesday 12:30-2:00, Thursday, 12:00-2:00, in Fenwick 415, or anytime by appointment.
 
 **Manuscripts, Inscriptions and Documents Club**:  Friday, 2:00 pm - ?, fourth floor of Fenwick Hall.
 
@@ -25,7 +26,7 @@ Please wear masks in class meetings and in my office.
 
 # Goals
 
-Latin 101 is the first semester of a two-semester sequence to introduce you to the study of Latin.  We will use a curriculum recently developed by several members of our Classics department at Holy Cross, led by [Professor Machado](https://dominicmachado.github.io). By the end of this course, you will be able to:
+Latin 102 is the continuation of Latin 101.  We will use a curriculum recently developed by several members of our Classics department at Holy Cross, led by [Professor Machado](https://dominicmachado.github.io). By the end of this course, you will be able to:
 
   - identify ways that  language structures our understanding of the world we live in
   - articulate how Latin has shaped and continues to shape structures of power in the modern world
@@ -41,33 +42,25 @@ Latin 101 is the first semester of a two-semester sequence to introduce you to t
 
 Community-based learning (CBL) is an essential part of our course. In this part of the course, you will work under the supervision of a mentor with elementary and middle schoolers in Worcester and Marlborough on collaborative projects about the texts we are reading. (Note that we have already developed a curriculum you can use in this work).
 
-Off-campus work will begin after fall break.  For seven weeks, you should anticipate spending roughly two hours per week (including travel) on the CBL part of your course.  We have included that time in our course plans as part of the 8-10 hours weekly  that Holy Cross expects students to
-devote to work outside of our 150 minutes of meeting time.
+You should anticipate spending roughly two hours per week (including travel) on the CBL part of your course.  We have included that time in our course plans as part of the 8-10 hours weekly  that Holy Cross expects students to devote to work outside of our 150 minutes of meeting time.
 
-Scheduling for off-campus work will be coordinated in conjunction with the CBL office.
-
+Scheduling for off-campus work will be coordinated in conjunction with the CBL office during the first week of class.
 
 
 
-# Organization of the course
 
-## Textbook
+# Course material
+
+ 1. All course material will be available on the **course web site** at [https://neelsmith.github.io/latin102/](https://neelsmith.github.io/latin102/).
+ 2. Written assignments will be submitted in **Canvas**.
+
+## Textbook: REWRITE THIS
 
 The fall semester course is organized in three units. On our course website, each unit identifies concrete objectives that will help you achieve the broader course goals summarized above.  The three units correspond closely to the first three units of the online textbook we are revising for this year's course.  You can always find a current on-line version at [https://lingualatina.github.io/textbook/](https://lingualatina.github.io/textbook/).
 
 In addition to introducing new features of Latin, each unit will include reading that connects the topics you are studying to contemporary experience, and will conclude with a reading selection from an authentic ancient text.  This year, our reading selections will be drawn from a mythological handbook attributed to Gaius Julius Hyginus.
 
 The textbook also has an accompanying youtube channel and playlist at [https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg/videos](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg/videos).
-
-.
-
-## Technologies and mechanics of submitting assignments
-
-We will use three technologies for managing course material this year.
-
- 1. All course material will be available on the **course web site** at [https://neelsmith.github.io/latin101/](https://neelsmith.github.io/latin101/).
- 2. Grades will be recorded in **Canvas**. You can check Canvas to review your progress in completing graded assignments.
- 3. [**Github**](https://github.com/) is the world's most widely used service for hosting projects with *version control* -- that is, tracking drafts and modifications to documents.  We'll use github to collaborate on drafts of your class preparation and portfolio assignments. Every github repository also includes the option of hosting a free web site on `github.io`, so you'll have the choice of sharing your entire portfolio or selections from it on a publicly visible website. This can be valuable beyond Latin 101:  many employers now are accustomed to finding a link to a github site as a standard part of job applications.
 
 
 
