@@ -10,9 +10,16 @@ has_children: true
 
 Welcome back!
 
+
+
+
+
 ## Week at a glance: Jan. 25 - Jan. 27
 
+Are there any items on [this review list](https://neelsmith.github.io/latin102/review/overview/) that you feel uncertain about?  Be sure to note that in your submission on Canvase for the *Introductory information and reflection*.
+
 ### MWF classes
+
 We review the declension of substantives, and the types of verbal expression we encountered in Greek 102.
 
 ### CBL
