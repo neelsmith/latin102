@@ -5,7 +5,10 @@ parent: "Daily schedule"
 nav_order: 4
 ---
 
-# Review: substantives
+# Review
+
+
+## Substantives
 
 In today's class, we will review nouns of the first three declensions, and how they agree with adjectives of the 2-1-2 type.
 
@@ -21,11 +24,14 @@ Please briefly answer the following questions.  Include both questions and your 
 
 
 
+
 1. What is your preferred name?
 1. In a typical week during the school year, what do you enjoy most, or most look forward to?
 2. What do you hope to get out of Latin 102 this spring?
 3. How do you plan to achieve your goals in Latin 102?
 2. What are you most looking forward to in Latin 102 this spring?
 3. What concerns do you have about Latin 102?
-4. What topics from Latin 101 do you feel most confident about?
-5. What topics from Latin 102 do you feel most uncertain about?
+4. Using the list of material covered in Latin 101 [here](https://neelsmith.github.io/latin102/review/overview/), 
+what topics from Latin 101 do you feel most confident about?  
+5. What topics on the [overview of Latin 101 topics](https://neelsmith.github.io/latin102/review/overview/)do you feel most uncertain about?
+6. Is there anything you want me to know about you as we begin our course?
