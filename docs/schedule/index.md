@@ -23,7 +23,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Jan 23*, *Jan 25*, *Jan 27* | *no classes* | [Welcome back!](../assignments/welcomeback/)  | ✏️ 🔬 [Review](../assignments/review1/) of substantantives, introduction to CBL | **Mon**: *No classes.* |
-| *Jan 30*, *Feb 1*, *Feb 3* | Review: [principal parts](../assignments/verbs/) of verbs | class | class |  |
+| *Jan 30*, *Feb 1*, *Feb 3* | Review: [principal parts](../assignments/verbs/) of verbs | 🔬 Assignment TBA: vocab assessment on 11 common verbs | class |  |
 
 ## Relative clauses
 
