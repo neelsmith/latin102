@@ -12,7 +12,9 @@ Welcome back!
 
 
 
+## Announcements
 
+- Wed., Feb. 1: practice vocabulary assessment on [11 common verbs](https://neelsmith.github.io/latin102/review/verbs1/)
 
 ## Week at a glance: Jan. 25 - Jan. 27
 
