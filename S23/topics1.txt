@@ -9,13 +9,13 @@
 
 Review: [principal parts](../assignments/verbs/) of verbs
  Comparative and superlative [degrees](../assignments/degrees/): practice vocab assessment on [11 common verbs](https://neelsmith.github.io/latin102/review/verbs1/)
-🔬 Assignment TBA: vocab assessment on [11 common verbs](https://neelsmith.github.io/latin102/review/verbs1/)
+🔬 Practice with the [comparative](../assignments/comparative/): vocab assessment on [11 common verbs](https://neelsmith.github.io/latin102/review/verbs1/)
 
 
 ## Relative clauses
 
 [Relative clauses](../assignments/relative1/)
-class
+🔬 class: in-class assessment: comparative and superlative forms
 [Relative clauses, 2](../assignments/relative2/)
 
 
