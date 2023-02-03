@@ -23,13 +23,13 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Jan 23*, *Jan 25*, *Jan 27* | *no classes* | [Welcome back!](../assignments/welcomeback/)  | ✏️ 🔬 [Review](../assignments/review1/) of substantantives, introduction to CBL | **Mon**: *No classes.* |
-| *Jan 30*, *Feb 1*, *Feb 3* | Review: [principal parts](../assignments/verbs/) of verbs |  Comparative and superlative [degrees](../assignments/degrees/): practice vocab assessment on [11 common verbs](https://neelsmith.github.io/latin102/review/verbs1/) | 🔬 Assignment TBA: vocab assessment on [11 common verbs](https://neelsmith.github.io/latin102/review/verbs1/) |  |
+| *Jan 30*, *Feb 1*, *Feb 3* | Review: [principal parts](../assignments/verbs/) of verbs |  Comparative and superlative [degrees](../assignments/degrees/): practice vocab assessment on [11 common verbs](https://neelsmith.github.io/latin102/review/verbs1/) | 🔬 Practice with the [comparative](../assignments/comparative/): vocab assessment on [11 common verbs](https://neelsmith.github.io/latin102/review/verbs1/) |  |
 
 ## Relative clauses
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Feb 6*, *Feb 8*, *Feb 10* | [Relative clauses](../assignments/relative1/) | class | [Relative clauses, 2](../assignments/relative2/) |  |
+| *Feb 6*, *Feb 8*, *Feb 10* | [Relative clauses](../assignments/relative1/) | 🔬 class: in-class assessment: comparative and superlative forms | [Relative clauses, 2](../assignments/relative2/) |  |
 | *Feb 13*, *Feb 15*, *Feb 17* | [Relative clauses, 3](../assignments/relative3/) | class | class |  |
 
 ## Participles
