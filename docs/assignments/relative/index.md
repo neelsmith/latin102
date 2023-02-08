@@ -11,7 +11,7 @@ nav_order: 7
 ## Understanding relative clauses
 
 
-In the L3 textbook, read this introduction to [relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/)
+In the L3 textbook, read this introduction to [relative clauses](https://lingualatina.github.io/textbook/2021-2022/11-relative-clauses/)
 
 Format the following English sentences by putting each clause on a separate line, and indenting to indicate the level of subordination.
 
@@ -30,7 +30,7 @@ Relative clauses in Latin are introduced by the relative pronoun.  Like any pron
 >
 > The **case** of the relative pronoun shows its **function** the relative clauses.
 
-Read about the [pronoun and antecedents](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/pronoun-and-antecedent/) in the L3 textbook.
+Read about the [pronoun and antecedents](https://lingualatina.github.io/textbook/2021-2022/11-relative-clauses/pronoun-and-antecedent/) in the L3 textbook.
 
 
 For each of the following sentences, put each *verbal expression* on a separate line, and indent to show the level of subordination as you did for the English sentences above. Match the relative with its antecedent.
