@@ -30,7 +30,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Feb 6*, *Feb 8*, *Feb 10* | [Relative clauses](../assignments/relative/) | 🔬 class: in-class assessment: comparative and superlative forms | [Relative clauses, 2](../assignments/relative2/) |  |
-| *Feb 13*, *Feb 15*, *Feb 17* | [Relative clauses, 3](../assignments/relative3/) | class | class |  |
+| *Feb 13*, *Feb 15*, *Feb 17* | ✏️ [Relative clauses, 3](../assignments/relative3/) | class | class |  |
 
 ## Participles
 
