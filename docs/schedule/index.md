@@ -30,14 +30,14 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Feb 6*, *Feb 8*, *Feb 10* | [Relative clauses](../assignments/relative/) | 🔬 class: in-class assessment: comparative and superlative forms | [Relative clauses, 2](../assignments/relative2/) |  |
-| *Feb 13*, *Feb 15*, *Feb 17* | ✏️ [Relative clauses, 3](../assignments/relative3/) | class | class |  |
+| *Feb 13*, *Feb 15*, *Feb 17* | class canceled | ✏️ [Relative clauses, 3](../assignments/relative3/) | Review indirect statement, and the future participle |  |
 
 ## Participles
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Feb 20*, *Feb 22*, *Feb 24* | [Participles](../assignments/participles1/) | [The present participle](../assignments/presentparticiple/) | class |  |
-| *Feb 27*, *Mar 1*, *Mar 3* | class | class | *No class* | **Fri**: *No class on March 3.* |
+| *Feb 20*, *Feb 22*, *Feb 24* | [Participles](../assignments/participles1/) | [The present participle](../assignments/presentparticiple/) | Review forms |  |
+| *Feb 27*, *Mar 1*, *Mar 3* | Workshop translation and analysis | Workshop composition | *No class* | **Fri**: *No class on March 3.* |
 | *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | ***spring break*** |  |
 | *Mar 13*, *Mar 15*, *Mar 17* | [Purpose](../assignments/) | class | class | **Mon**: *Classes resume.* |
 
