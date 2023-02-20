@@ -11,6 +11,7 @@ has_children: true
 
 ## Announcements
 
+- **Wed, Feb 22**: practice recognizing forms of present active participle 
 
 ## Week at a glance: Feb. 20 - Feb. 24
 
