@@ -36,8 +36,8 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Feb 20*, *Feb 22*, *Feb 24* | [Participles](../assignments/participles1/) | [The present participle](../assignments/presentparticiple/) | Review forms |  |
-| *Feb 27*, *Mar 1*, *Mar 3* | Workshop translation and analysis | Workshop composition | *No class* | **Fri**: *No class on March 3.* |
+| *Feb 20*, *Feb 22*, *Feb 24* | [Participles](../assignments/participles1/) | [The present participle](../assignments/presentparticiple/) | 🔬 Review forms |  |
+| *Feb 27*, *Mar 1*, *Mar 3* | Workshop: [translation](../assignments/translation1/) and analysis | Workshop: [composition](../assignments/composition1/) | *No class* | **Fri**: *No class on March 3.* |
 | *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | ***spring break*** |  |
 | *Mar 13*, *Mar 15*, *Mar 17* | [Purpose](../assignments/) | class | class | **Mon**: *Classes resume.* |
 
