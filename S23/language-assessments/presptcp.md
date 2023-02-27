@@ -9,4 +9,4 @@ Please identify (TVGCN) the following participles, and give the first principle 
 5. ducentis
 6. uolente
 
-> *Due date:  Feb. 22; last date for revision: Wed., March 15.*
+> *Due date:  Feb. 24; last date for revision: Wed., March 15.*

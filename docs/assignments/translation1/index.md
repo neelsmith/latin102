@@ -38,7 +38,7 @@ Highlighting <span class='query'>like this</span> indicates words or phrases ref
 
 ## A. Grammatical analysis
 
-Place each clause on a separate line; indent to show its level of subordination; circle the verb of each clause by surrounding it with asterisks. 
+Place each clause on a separate line; indent to show its level of subordination; circle the verb of each clause. 
 
 ## B. Grammatical questions
 
