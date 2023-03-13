@@ -8,6 +8,7 @@ nav_order: 17
 # Muirchu's *Vita Sancti Patricii*
 
 
+
 Perhaps in the seventh century, a churchman named Muirchu wrote the first biography of Patrick.
 
 Use the glosses below, and the [online Lewis-Short dictionary](http://folio2.furman.edu/lewis-short/index.html) from Furman University to work through this selection from chapter 20.
@@ -17,7 +18,14 @@ The events in this chapter are set at the first Easter in Ireland.  Patrick appe
 They stage a contest between Patrick and a druid named Lucet Máel.  We pick up the story where Lucet Máel has just challenged Patrick to bring snow over the whole land.
 
 
-## Instructions
+## Class preparation
+
+No special preparation for class today:  we'll sight-read together a passage from a Latin biography of Saint Patrick during our class time.  If you want to get an advance peek, feel free to look at the following instructions!
+
+
+
+
+## Instructions for sight-reading in class
 
 The passages have been outlined in the format we've been using all semester.  Work on the main clauses first.  Find subject and verb.  If you don't recognize vocabulary, one of your team should check the glosses, and try to find the word in the lexicon if it's not glossed.
 
