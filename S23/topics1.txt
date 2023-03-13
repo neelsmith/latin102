@@ -43,15 +43,15 @@ Workshop: [composition](../assignments/composition1/)
 ***spring break***
 
 
-[Purpose](../assignments/)
-class
-class
+Review [composition](../assignments/composition1/)
+The [imperative](../imperative/)
+Life of [St. Patrick](../assignments/patrick/)
 
 
 ## Purpose and result
 
-class
-class
+[Purpose](../assignments/purpose/)
+The gerundive
 class
 
 
