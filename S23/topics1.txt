@@ -44,7 +44,7 @@ Workshop: [composition](../assignments/composition1/)
 
 
 Review [composition](../assignments/composition1/)
-The [imperative](../assigments/imperative/)
+The [imperative](../assignments/imperative/)
 Life of [St. Patrick](../assignments/patrick/)
 
 
