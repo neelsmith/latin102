@@ -8,6 +8,15 @@ nav_order: 6
 # Previous weeks at a glance
 
 
+## Week at a glance: Feb. 20 - Feb. 24
+
+ 
+### MWF classes
+
+We introduce an important kind of verbal expression: the participle.
+
+
+
 
 ## Week at a glance: Jan. 30 - Feb. 3
 
