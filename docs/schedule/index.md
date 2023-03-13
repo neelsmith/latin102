@@ -39,13 +39,13 @@ Deadlines to note:
 | *Feb 20*, *Feb 22*, *Feb 24* | [Participles](../assignments/participles1/) | [The present participle](../assignments/presentparticiple/) | 🔬 Review forms |  |
 | *Feb 27*, *Mar 1*, *Mar 3* | Workshop: [translation](../assignments/translation1/) and analysis | Workshop: [composition](../assignments/composition1/) | *No class* | **Fri**: *No class on March 3.* |
 | *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | ***spring break*** |  |
-| *Mar 13*, *Mar 15*, *Mar 17* | [Purpose](../assignments/) | class | class | **Mon**: *Classes resume.* |
+| *Mar 13*, *Mar 15*, *Mar 17* | Review [composition](../assignments/composition1/) | The [imperative](../imperative/) | Life of [St. Patrick](../assignments/patrick/) | **Mon**: *Classes resume.* |
 
 ## Purpose and result
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Mar 20*, *Mar 22*, *Mar 24* | class | class | class |  |
+| *Mar 20*, *Mar 22*, *Mar 24* | [Purpose](../assignments/purpose/) | The gerundive | class |  |
 | *Mar 27*, *Mar 29*, *Mar 31* | class | class | class |  |
 | *Apr 3*, *Apr 5*, *Apr 7* | class | class | ***Easter break*** | **Wed**: *Last class before Easter break.* |
 

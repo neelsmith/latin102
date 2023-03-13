@@ -16,11 +16,10 @@ has_children: true
 - [Composition 1](./assignments/composition1/):  submit to Canvas by class, Wednesday, March 15.  Deadline for revisions: March 24.
 - Overview/review:  [forms of the present participle](./review/diffs-gender3/)
 
-## Week at a glance: Feb. 20 - Feb. 24
-
- 
-### MWF classes
-
-We introduce an important kind of verbal expression: the participle.
 
 
+## Week at a glance: Mar. 13 - Mar. 17
+
+We complete the first set of portfolio assignments, and introduce a new mood:  the imperative.
+
+On Friday, we'll practice sight reading with a Latin biography of Saint Patrick.
