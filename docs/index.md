@@ -11,10 +11,13 @@ has_children: true
 
 ## Announcements
 
-- **Wed, Feb 22**: practice recognizing forms of present active participle 
+
+
+- **Wed. Mar. 15**: drop-in hours from 1:00-2:00 today due to Classics Department meeting.
 - [Translation 1](./assignments/translation1/):  submit to Canvas by Friday, March 3. Deadline for revisions: March 20.
 - [Composition 1](./assignments/composition1/):  submit to Canvas by class, Wednesday, March 15.  Deadline for revisions: March 24.  **Please include your name on the PDF.**
 - Overview/review:  [forms of the present participle](./review/diffs-gender3/)
+
 
 
 
