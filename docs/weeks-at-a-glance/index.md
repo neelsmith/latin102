@@ -10,6 +10,7 @@ nav_order: 6
 
 ## Week at a glance: Feb. 20 - Feb. 24
 
+- **Wed, Feb 22**: practice recognizing forms of present active participle 
  
 ### MWF classes
 
