@@ -11,18 +11,15 @@ has_children: true
 
 ## Announcements
 
-
-
-- **Wed. Mar. 15**: drop-in hours from 1:00-2:00 today due to Classics Department meeting.
 - [Translation 1](./assignments/translation1/):  submit to Canvas by Friday, March 3. Deadline for revisions: March 20.
 - [Composition 1](./assignments/composition1/):  submit to Canvas by class, Wednesday, March 15.  Deadline for revisions: March 24.  **Please include your name on the PDF.**
-- Overview/review:  [forms of the present participle](./review/diffs-gender3/)
 
 
 
+## Week at a glance: Mar. 20 - Mar. 24
 
-## Week at a glance: Mar. 13 - Mar. 17
+We look at ways of expressing *purpose* in Latin:
 
-We complete the first set of portfolio assignments, and introduce a new mood:  the imperative.
-
-On Friday, we'll practice sight reading with a Latin biography of Saint Patrick.
+- a prepositional phrase: *in* + an accusative object
+- a subordinate clause: *ut* + subjunctive
+- the gerundive: *ad* + gerundive
