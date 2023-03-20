@@ -8,6 +8,14 @@ nav_order: 6
 # Previous weeks at a glance
 
 
+
+## Week at a glance: Mar. 13 - Mar. 17
+
+We complete the first set of portfolio assignments, and introduce a new mood:  the imperative.
+
+On Friday, we'll practice sight reading with a Latin biography of Saint Patrick.
+
+
 ## Week at a glance: Feb. 20 - Feb. 24
 
 - **Wed, Feb 22**: practice recognizing forms of present active participle 
