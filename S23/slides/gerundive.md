@@ -10,9 +10,8 @@
 
 
 
-1. same stem as imperfect
-2. plus *nd*
-3. regular 2-1-2 adjective endings *-us, -a, -um*
+1. **stem**: same stem as *imperfect*, plus *nd*
+2. **endings**: regular 2-1-2 adjective endings *-us, -a, -um*
 
 
 
