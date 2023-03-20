@@ -51,7 +51,7 @@ Life of [St. Patrick](../assignments/patrick/)
 ## Purpose and result
 
 [Purpose](../assignments/purpose/)
-The gerundive
+The [gerundive](../assigments/gerundive/)
 class
 
 
