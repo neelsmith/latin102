@@ -45,7 +45,7 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Mar 20*, *Mar 22*, *Mar 24* | [Purpose](../assignments/purpose/) | The [gerundive](../assignments/gerundive/) | class |  |
+| *Mar 20*, *Mar 22*, *Mar 24* | [Purpose](../assignments/purpose/) | The [gerundive](../assignments/gerundive/) | Practice expressing [purpose](../assignments/purpose-practice/) |  |
 | *Mar 27*, *Mar 29*, *Mar 31* | class | class | class |  |
 | *Apr 3*, *Apr 5*, *Apr 7* | class | class | ***Easter break*** | **Wed**: *Last class before Easter break.* |
 
