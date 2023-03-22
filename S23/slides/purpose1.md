@@ -29,5 +29,24 @@ From Hyginus:
 
 
 
+## *ut* + subjunctive
+
+12pr
+
+> dum flumen Euhenum transiret calciamentum reliquit; quod **ut** celeriter ad sacra **ueniret** neglexit.
+
+
+137a
+
+> interim rex eum iussit in hospitio manere, **ut** amplius de eo **perquireret**.
+
+---
+
+## Negative purpose:  *ne* + subjunctive
+
+58pr
+
+> **ne** suspendio se **necaret** nutrix interuenit.
+
 
 
