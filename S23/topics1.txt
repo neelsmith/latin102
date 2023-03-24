@@ -57,7 +57,7 @@ Practice expressing [purpose](../assignments/purpose-practice/)
 
 
 
-class
+Analyzing [syntax](../assignments/syntax-analysis/)
 class
 class
 
