@@ -27,8 +27,10 @@ We will workshop the following portfolio assignment (translation 2 ).
 
 Format the following passage based on chapter 34 of Hyginus as follows:
 
-- place each verbal expression on a separate line, and highlight the verb 
+- place each verbal expression (a subject/verb idea) on a separate line , and highlight the verb 
 - indent the passage to show its level of subordination. Main clauses should be flush left; expressions dependent on the main clause should be indented one level; when further expressions depend on subordinate expressions, they should be indented one level further than the expression they depend on.
+- identify the form of each highlighted verb, and  identify the kind of expression (e.g., main clause; participial expression; purpose clause; gerundive expression purpose; etc...)
+
 
 ### Part 2: translation
 
