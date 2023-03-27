@@ -9,6 +9,23 @@ nav_order: 6
 
 
 
+
+
+
+
+## Week at a glance: Mar. 20 - Mar. 24
+
+- **Friday, Mar. 24**: extended office hours today from 12:00-2:30.
+- **Friday, Mar. 24**: please prepare today's assignment in writing.  We'll go over it in class.
+- [Translation 1](./assignments/translation1/):  submit to Canvas by Friday, March 3. Deadline for revisions: March 20.
+- [Composition 1](./assignments/composition1/):  submit to Canvas by class, Wednesday, March 15.  Deadline for revisions: March 24.  **Please include your name on the PDF.**
+
+
+We look at ways of expressing *purpose* in Latin:
+
+- a prepositional phrase: *in* + an accusative object
+- a subordinate clause: *ut* + subjunctive
+- the gerundive: *ad* + gerundive
 ## Week at a glance: Mar. 13 - Mar. 17
 
 We complete the first set of portfolio assignments, and introduce a new mood:  the imperative.
