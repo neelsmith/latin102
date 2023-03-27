@@ -11,17 +11,9 @@ has_children: true
 
 ## Announcements
 
-- **Friday, Mar. 24**: extended office hours today from 12:00-2:30.
-- **Friday, Mar. 24**: please prepare today's assignment in writing.  We'll go over it in class.
-- [Translation 1](./assignments/translation1/):  submit to Canvas by Friday, March 3. Deadline for revisions: March 20.
-- [Composition 1](./assignments/composition1/):  submit to Canvas by class, Wednesday, March 15.  Deadline for revisions: March 24.  **Please include your name on the PDF.**
+- **Wed., Mar. 29**:  in-class assessment for portfolio assignment on grammatical mastery of purpose expressions
+- **Fri., Mar. 31**:  [translation 2](./assignments/translation2/) portfolio assignment due
 
+## Week at a glance: Mar. 27 - Mar. 31
 
-
-## Week at a glance: Mar. 20 - Mar. 24
-
-We look at ways of expressing *purpose* in Latin:
-
-- a prepositional phrase: *in* + an accusative object
-- a subordinate clause: *ut* + subjunctive
-- the gerundive: *ad* + gerundive
+We begin reading more extensive, connected passages of Latin, as we complete our next two portfolio assignments.
