@@ -46,7 +46,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Mar 20*, *Mar 22*, *Mar 24* | [Purpose](../assignments/purpose/) | The [gerundive](../assignments/gerundive/) | Practice expressing [purpose](../assignments/purpose-practice/) |  |
-| *Mar 27*, *Mar 29*, *Mar 31* | Analyzing [syntax](../assignments/syntax-analysis/) | 🔬 Workshop [translation 2](../assignments/translation2/) assignment | ✏️ Translation 2 due |  |
+| *Mar 27*, *Mar 29*, *Mar 31* | Analyzing [syntax](../assignments/syntax-analysis/) | 🔬 Workshop [translation 2](../assignments/translation2/) assignment | ✏️ [Conditions](../assignments/conditions/) (Translation 2 due) |  |
 | *Apr 3*, *Apr 5*, *Apr 7* | class | class | ***Easter break*** | **Wed**: *Last class before Easter break.* |
 
 ## Reading unaltered Latin
