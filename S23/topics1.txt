@@ -59,7 +59,7 @@ Practice expressing [purpose](../assignments/purpose-practice/)
 
 Analyzing [syntax](../assignments/syntax-analysis/)
 🔬 Workshop [translation 2](../assignments/translation2/) assignment
-✏️ Translation 2 due
+✏️ [Conditions](../assignments/conditions/) (Translation 2 due)
 
 class
 class
