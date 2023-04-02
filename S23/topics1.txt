@@ -61,8 +61,9 @@ Analyzing [syntax](../assignments/syntax-analysis/)
 🔬 Workshop [translation 2](../assignments/translation2/) assignment
 ✏️ [Conditions](../assignments/conditions/) (Translation 2 due)
 
-class
-class
+Introducing [composition 2](../assignments/composition2/)
+Workshop on second composition
+
 ***Easter break***
 
 
