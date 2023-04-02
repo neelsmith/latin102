@@ -47,7 +47,7 @@ Deadlines to note:
 | ---: | :--- | :--- | :--- | :--- |
 | *Mar 20*, *Mar 22*, *Mar 24* | [Purpose](../assignments/purpose/) | The [gerundive](../assignments/gerundive/) | Practice expressing [purpose](../assignments/purpose-practice/) |  |
 | *Mar 27*, *Mar 29*, *Mar 31* | Analyzing [syntax](../assignments/syntax-analysis/) | 🔬 Workshop [translation 2](../assignments/translation2/) assignment | ✏️ [Conditions](../assignments/conditions/) (Translation 2 due) |  |
-| *Apr 3*, *Apr 5*, *Apr 7* | class | class | ***Easter break*** | **Wed**: *Last class before Easter break.* |
+| *Apr 3*, *Apr 5*, *Apr 7* | Introducing [composition 2](../assignments/composition2/) | Workshop on second composition | ***Easter break*** | **Wed**: *Last class before Easter break.* |
 
 ## Reading unaltered Latin
 
