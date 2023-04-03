@@ -57,4 +57,4 @@ Deadlines to note:
 | *Apr 17*, *Apr 19*, *Apr 21* | Hercules and Megara, 1 | Hercules and Megara, 2 | Hercules and Deianira |  |
 | *Apr 24*, *Apr 26*, *Apr 28* | Deianira and Nessus | *no class: Academic Conference* | Hercules and Iole | **Wed**: *Academic conference.* |
 | *May 1*, *May 3*, *May 5* | Deinira and the death of Hercules | Deinira and the death of Hercules, 2  | Deinira and the death of Hercules, 3 |  |
-| *May 8*, *May 10*, *May 12* | class | *Study period* | *Exam period* | **Mon**: *Last day of classes.* **Tue**: *Study period begins.* **Thu**: *Final examinations begin.* |
+| *May 8*, *May 10*, *May 12* | Course review | *Study period* | *Exam period* | **Mon**: *Last day of classes.* **Tue**: *Study period begins.* **Thu**: *Final examinations begin.* |

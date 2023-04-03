@@ -93,6 +93,6 @@ Deinira and the death of Hercules, 2
 Deinira and the death of Hercules, 3
 
 
-class
+Course review
 *Study period*
 *Exam period*
