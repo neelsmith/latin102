@@ -47,14 +47,14 @@ Deadlines to note:
 | ---: | :--- | :--- | :--- | :--- |
 | *Mar 20*, *Mar 22*, *Mar 24* | [Purpose](../assignments/purpose/) | The [gerundive](../assignments/gerundive/) | Practice expressing [purpose](../assignments/purpose-practice/) |  |
 | *Mar 27*, *Mar 29*, *Mar 31* | Analyzing [syntax](../assignments/syntax-analysis/) | 🔬 Workshop [translation 2](../assignments/translation2/) assignment | ✏️ [Conditions](../assignments/conditions/) (Translation 2 due) |  |
-| *Apr 3*, *Apr 5*, *Apr 7* | Introducing [composition 2](../assignments/composition2/) | Workshop on second composition | ***Easter break*** | **Wed**: *Last class before Easter break.* |
+| *Apr 3*, *Apr 5*, *Apr 7* | Introducing [composition 2](../assignments/composition2/) | [Composition 2](../assignments/latinchat/) with ChatGPT | ***Easter break*** | **Wed**: *Last class before Easter break.* |
 
 ## Reading unaltered Latin
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Apr 10*, *Apr 12*, *Apr 14* | ***Easter break*** | class | class | **Tue**: *Classes resume.* |
-| *Apr 17*, *Apr 19*, *Apr 21* | class | class | class |  |
-| *Apr 24*, *Apr 26*, *Apr 28* | class | *no class: Academic Conference* | class | **Wed**: *Academic conference.* |
-| *May 1*, *May 3*, *May 5* | class | class | class |  |
-| *May 8*, *May 10*, *May 12* | class | *Study period* | *Exam period* | **Mon**: *Last day of classes.* **Tue**: *Study period begins.* **Thu**: *Final examinations begin.* |
+| *Apr 10*, *Apr 12*, *Apr 14* | ***Easter break*** | Deeds of Hercules, 1 | Deeds of Hercules, 2 | **Tue**: *Classes resume.* |
+| *Apr 17*, *Apr 19*, *Apr 21* | Hercules and Megara, 1 | Hercules and Megara, 2 | Hercules and Deianira |  |
+| *Apr 24*, *Apr 26*, *Apr 28* | Deianira and Nessus | *no class: Academic Conference* | Hercules and Iole | **Wed**: *Academic conference.* |
+| *May 1*, *May 3*, *May 5* | Deinira and the death of Hercules | Deinira and the death of Hercules, 2  | Deinira and the death of Hercules, 3 |  |
+| *May 8*, *May 10*, *May 12* | Course review | *Study period* | *Exam period* | **Mon**: *Last day of classes.* **Tue**: *Study period begins.* **Thu**: *Final examinations begin.* |
