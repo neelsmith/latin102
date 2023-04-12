@@ -13,6 +13,8 @@ has_children: true
 
 - [How to approach reading assignments](./reading/)
 - Vocabulary: the [250 most frequent words in Hyginus' *Fabulae*](https://lingualatina.github.io/textbook/vocabulary/) (Note that this covers 2/3 of the words in Hyginus!)
+- Online version of [Lewis-Short's *Latin Dictionary*](http://folio2.furman.edu/lewis-short/index.html)
+
 
 ## Week at a glance: Apr. 10 - Apr. 14
 
