@@ -12,9 +12,10 @@ has_children: true
 ## Announcements
 
 - [How to approach reading assignments](./reading/)
+- Syntactically [highlighted passages](./hyginus/)
 - Vocabulary: the [250 most frequent words in Hyginus' *Fabulae*](https://lingualatina.github.io/textbook/vocabulary/) (Note that this covers 2/3 of the words in Hyginus!)
 - Online version of [Lewis-Short's *Latin Dictionary*](http://folio2.furman.edu/lewis-short/index.html)
-
+- [Composition or critique of ChatGPT](./assignments/latinchat/): due **Monday, Apr. 17**
 
 ## Week at a glance: Apr. 10 - Apr. 14
 
