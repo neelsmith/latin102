@@ -23,3 +23,12 @@ We begin reading continuous, unaltered text of Hyginus.  (See [schedule](./sched
 
 - Wednesday: Hyginus section 30, the 12 deeds of Hercules ([beginning here](./hyginus/reader/30pr.1.1-30pr.1.15a.html))
 - Friday: deeds of Hercules, continued
+
+## Notes for reading
+
+### The pluperfect tense, active voice
+
+*Formation*: looks like using the imperfect tense of *sum* as an ending on the third principal part stem. Example:
+
+- *misit*: perfect tense, "He sent"
+- *miserat*: pluperfect tense, "He had sent"
