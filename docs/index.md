@@ -18,5 +18,5 @@ has_children: true
 
 We begin reading continuous, unaltered text of Hyginus.  (See [schedule](./schedule/) for specific instructions and links.)
 
-- Wednesday: Hyginus section 30, the [12 deeds of Hercules](./reader/30pr.1.1-30pr.1.15a.html)
+- Wednesday: Hyginus section 30, the 12 deeds of Hercules ([beginning here](./hyginus/reader/30pr.1.1-30pr.1.15a.html))
 - Friday: deeds of Hercules, continued
