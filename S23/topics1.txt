@@ -70,8 +70,8 @@ Introducing [composition 2](../assignments/composition2/)
 ## Reading unaltered Latin
 
 ***Easter break***
-Deeds of Hercules, 1
-Deeds of Hercules, 2
+[Deeds](../assignments/deeds1/) of Hercules, 1
+[Deeds](../assignments/deeds2/) of Hercules, 2
 
 
 
