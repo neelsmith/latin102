@@ -26,6 +26,21 @@ We begin reading continuous, unaltered text of Hyginus.  (See [schedule](./sched
 
 ## Notes for reading
 
+
+### Typical noun patterns
+
+| Genitive | Nominative | Example |
+| --- | --- | --- |
+| -nt**is** | -ns | fons, fontis, m., "fountain, spring" |
+| -on**is** | -o | draco, dracontis, m., "serpent, dragon" |
+
+Remember this 2nd-declension pattern:  
+
+
+| Genitive | Nominative | Example |
+| --- | --- | --- |
+| -r**i** | -er | aper, apri, m., "boar" |
+
 ### The pluperfect tense, active voice
 
 *Formation*: looks like using the imperfect tense of *sum* as an ending on the third principal part stem. Example:
