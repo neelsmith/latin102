@@ -8,7 +8,7 @@ has_children: true
 
 ## Hyginus, *Fabulae* sections 30-32
 
-> Public-domain translation by Mary Grant (University of Kansas Publications in Humanistic Studies, no. 34., online at [ToposText web site](https://topostext.org/work/206).
+> Public-domain translation by Mary Grant (University of Kansas Publications in Humanistic Studies, no. 34., online at [ToposText web site](https://topostext.org/work/206).)
 
 
 #### § 30  TWELVE LABORS OF HERCULES ORDERED BY EURYSTHEUS
