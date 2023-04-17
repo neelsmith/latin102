@@ -54,7 +54,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Apr 10*, *Apr 12*, *Apr 14* | ***Easter break*** | [Deeds](../assignments/deeds1/) of Hercules, 1 | [Deeds](../assignments/deeds2/) of Hercules, 2 | **Tue**: *Classes resume.* |
-| *Apr 17*, *Apr 19*, *Apr 21* | Hercules and Megara, 1 | Hercules and Megara, 2 | Hercules and Deianira |  |
+| *Apr 17*, *Apr 19*, *Apr 21* | Hercules and Megara, introduction | [Hercules and Megara](../assignments/megara/), 2 | Hercules and Deianira |  |
 | *Apr 24*, *Apr 26*, *Apr 28* | Deianira and Nessus | *no class: Academic Conference* | Hercules and Iole | **Wed**: *Academic conference.* |
 | *May 1*, *May 3*, *May 5* | Deinira and the death of Hercules | Deinira and the death of Hercules, 2  | Deinira and the death of Hercules, 3 |  |
 | *May 8*, *May 10*, *May 12* | Course review | *Study period* | *Exam period* | **Mon**: *Last day of classes.* **Tue**: *Study period begins.* **Thu**: *Final examinations begin.* |

@@ -1,5 +1,5 @@
 ---
-title: "Hyginus, setions 30-32"
+title: "Hyginus, sections 30-32 in English"
 layout: page
 nav_order: 0
 has_children: true

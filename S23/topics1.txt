@@ -76,8 +76,8 @@ Introducing [composition 2](../assignments/composition2/)
 
 
 
-Hercules and Megara, 1
-Hercules and Megara, 2
+Hercules and Megara, introduction
+[Hercules and Megara](../assignments/megara/), 2
 Hercules and Deianira
 
 
