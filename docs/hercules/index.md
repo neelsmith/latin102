@@ -1,7 +1,7 @@
 ---
 title: "Hyginus, sections 30-32 in English"
 layout: page
-nav_order: 0
+nav_order: 20
 has_children: true
 ---
 
