@@ -10,8 +10,8 @@ The selections linked below are cited by the section number of the passage in Hy
 
 - Hercules and his wives:
     - *Herculis athla duodecim ab Eurystheo imperata*, [section 30](./reader/30pr.1.1-30pr.1.15a.html)
-    - *Parerga eiusdem*, section 31
-    - *Megara*, section 32
+    - *Parerga eiusdem*, [section 31](./reader/31pr.1.1-31pr.1.6a.html)
+    - *Megara*, [section 32](./reader/32pr.1.1-32pr.1.32a.html)
     - *Centauri*, [section 33](./reader/33pr.1.1-33pr.1.30a.html)
     - *Nessus*, [section 34](./reader/34pr.1.1-34pr.1.14a.html)
     - *Iole*, [section 35](./reader/35pr.1.1-35pr.1.13a.html)
