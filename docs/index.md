@@ -11,6 +11,10 @@ has_children: true
 
 ## Announcements
 
+
+- Passages to choose from for final written assignment:
+    - 32, 33, 34 or (part of) 36
+    - read [all of 32-36 in English](./hercules/)
 - [How to approach reading assignments](./reading/)
 - Syntactically [highlighted passages](./hyginus/)
 - Vocabulary: the [250 most frequent words in Hyginus' *Fabulae*](https://lingualatina.github.io/textbook/vocabulary/) (Note that this covers 2/3 of the words in Hyginus!)
