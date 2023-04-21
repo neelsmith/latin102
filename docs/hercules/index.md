@@ -1,12 +1,12 @@
 ---
-title: "Hyginus, sections 30-32 in English"
+title: "Hyginus, sections 30-36 in English"
 layout: page
 nav_order: 20
 has_children: true
 ---
 
 
-## Hyginus, *Fabulae* sections 30-32
+## Hyginus, *Fabulae* sections 30-36
 
 > Public-domain translation by Mary Grant (University of Kansas Publications in Humanistic Studies, no. 34., online at [ToposText web site](https://topostext.org/work/206).)
 
@@ -26,4 +26,21 @@ He slew Antaeus, son of Earth, in Libya. This man would compel visitors to wrest
 When Hercules had been sent for the three-headed dog by King Eurystheus, and Lycus, son of Neptune, though he had perished, he planned to kill his wife Megara, daughter of Creon, and his sons, Therimachus and Ophites, and seize the kingdom. Hercules prevented him and killed Lycus. Later, when madness was sent upon him by Juno, he killed Megara and his sons Therimachus and Ophites. When he came to his right mind, he begged Apollo to give him an oracular reply on how to expiate his crime. Because Apollo was unwilling, Hercules wrathfully carried off the tripod from his shrine. Later, at the command of Jove, he returned it, and bade him give the reply, though unwilling. Hercules because of this offence was given in servitude to Queen Omphale by Mercury.
 
 
+ 
+#### § 33  CENTAURS
 
+When Hercules had come to the court of King Dexamenus and had violated his daughter Dejanira, promising he would marry her, Eurytion a centaur, son of Ixion and Nubes, after his departure sought Dejanira as a wife. Her father, fearing violence, promised her to him. On the appointed day he came with his brothers to the wedding. Hercules intervened, and killed the Centaur, and led home his betrothed. Likewise at another marriage, when Pirithous was taking Hippodamia, daughter of Adrastus, Centaurs, full of wine, attempted to carry off the wives of the Lapithae. The Centaurs killed many of them, but by them perished.
+
+
+### 34  NESSUS
+
+Nessus, son of Ixion and Nubes, a centaur, was asked by Dejanira to carry her across the river Evenus, but as he was carrying her, in the very river he tried to ravish her. When Hercules came there, and Dejanira implored his aid, he pierced Nessus with his arrows. As he died, Nessus, knowing how poisonous the arrows were, since they had been dipped in the gall of the Lernaean Hydra, drew out some of his blood and gave it to Dejanira, telling her it was a love-charm. If she wanted her husband not to desert her, she should have his garments smeared with this blood. Dejanira, believing him, kept it carefully preserved.
+
+#### § 35  IOLE
+
+Hercules, when he had sought in marriage Iole, daughter of Eurytus, and had been refused, attacked Oichalia. In order to bend the girl to his will[?], he threatened to kill her relatives in her presence. She, with resolute mind, suffered them to be slain before her eyes. When he had killed them all, he sent Iole as captive before him to Dejanira.
+
+
+ ### § 36  DEJANIRA
+ 
+ When Dejanira, daughter of Oineus and wife of Hercules, saw the captive Iole, a maiden of remarkable beauty, arrive, she feared that she would steal her marriage. So mindful of the instructions of Nessus, she sent a servant named Lichas to take to Hercules a robe dipped in the blood of the centaur. A little of it fell to the earth, and when the sun touched it, it began to burn. When Dejanira saw this, she knew that Nessus had spoken falsely, and sent a man to recall the one to whom she had given the garment. Hercules had already put it on, and it started at once to blaze; when he leaped into a stream to put out the blaze, still greater flames burst forth; when he tried to take off the garment the flesh came with it. Then Hercules, whirling Lichas, who had brought the garment, round and round, threw him into the sea, and at the place where he fell a rock appeared which is called Lichas. Then Philoctetes, son of Poeas, is said to have built a pyre for Hercules on Mount Oita, and he mounted it . . . [and cast off his] mortality. For this service he gave Philoctetes his bow and arrows. But Dejanira, because of what had happened to Hercules, killed herself
