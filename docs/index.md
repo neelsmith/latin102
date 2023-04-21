@@ -15,6 +15,7 @@ has_children: true
 - Passages to choose from for final written assignment:
     - 32, 33, 34 or (part of) 36
     - read [all of 32-36 in English](./hercules/)
+- Monday, May 8: in lieu of class, open drop in 10:00-12:00 for any last questions.    
 - [How to approach reading assignments](./reading/)
 - Syntactically [highlighted passages](./hyginus/)
 - Vocabulary: the [250 most frequent words in Hyginus' *Fabulae*](https://lingualatina.github.io/textbook/vocabulary/) (Note that this covers 2/3 of the words in Hyginus!)
