@@ -12,7 +12,8 @@ has_children: true
 ## Announcements
 
 
-- Passages to choose from for final written assignment:
+- Instructions for [final written assignment](./assignments/lastwriting/)
+- [Passages to choose from](./assignments/lastwriting/passages/) for final written assignment:
     - 32, 33, 34 or (part of) 36
     - read [all of 32-36 in English](./hercules/)
 - Monday, May 8: in lieu of class, open drop in 10:00-12:00 for any last questions.    
