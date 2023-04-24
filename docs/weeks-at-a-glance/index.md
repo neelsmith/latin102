@@ -9,6 +9,15 @@ nav_order: 6
 
 
 
+## Week at a glance: Apr. 10 - Apr. 14
+
+We begin reading continuous, unaltered text of Hyginus.  (See [schedule](./schedule/) for specific instructions and links.)
+
+- Wednesday: Hyginus section 30, the 12 deeds of Hercules ([beginning here](./hyginus/reader/30pr.1.1-30pr.1.15a.html))
+- Friday: deeds of Hercules, continued
+- [Composition or critique of ChatGPT](./assignments/latinchat/): due **Monday, Apr. 17**
+
+
 
 - **Wed., Mar. 29**:  in-class assessment for portfolio assignment on grammatical mastery of purpose expressions
 - **Fri., Mar. 31**:  [translation 2](./assignments/translation2/) portfolio assignment due. Submit a PDF on Canvas: please **include your name on the PDF**, and **skip or double-space lines** so that I have room to add comments on your translation.

@@ -12,23 +12,34 @@ has_children: true
 ## Announcements
 
 
+- **Wednesday, Apr. 26**: No class  (Academic Conference)
+- **Friday, Apr. 28**: initial submission of final written assignment.
+- **Monday, May 8**: In lieu of class, open drop-in 10:00-12:00 for any last questions on final assignment.
+- **Tuesday, May 9**: last date to turn in revisions.  (NB: I have to be off campus and will not be able to review submissions with you on Tuesday!)
+
+
+### Final written assignment
+
 - Instructions for [final written assignment](./assignments/lastwriting/)
 - [Passages to choose from](./assignments/lastwriting/passages/) for final written assignment:
     - 32, 33, 34 or (part of) 36
     - read [all of 32-36 in English](./hercules/)
-- Monday, May 8: in lieu of class, open drop in 10:00-12:00 for any last questions.    
+ 
+
+
+## At a glance: April 24 - May 5
+
+Continuous reading of passages in sections 32-36 of Hyginus.  Lobby for your favorite passage to read together in class!
+
+Resources for reading:
+
 - [How to approach reading assignments](./reading/)
 - Syntactically [highlighted passages](./hyginus/)
 - Vocabulary: the [250 most frequent words in Hyginus' *Fabulae*](https://lingualatina.github.io/textbook/vocabulary/) (Note that this covers 2/3 of the words in Hyginus!)
 - Online version of [Lewis-Short's *Latin Dictionary*](http://folio2.furman.edu/lewis-short/index.html)
-- [Composition or critique of ChatGPT](./assignments/latinchat/): due **Monday, Apr. 17**
 
-## Week at a glance: Apr. 10 - Apr. 14
 
-We begin reading continuous, unaltered text of Hyginus.  (See [schedule](./schedule/) for specific instructions and links.)
 
-- Wednesday: Hyginus section 30, the 12 deeds of Hercules ([beginning here](./hyginus/reader/30pr.1.1-30pr.1.15a.html))
-- Friday: deeds of Hercules, continued
 
 ## Notes for reading
 
