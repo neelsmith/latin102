@@ -15,7 +15,8 @@ has_children: true
 - **Wednesday, Apr. 26**: No class  (Academic Conference)
 - **Friday, Apr. 28**: initial submission of final written assignment.
 - **Monday, May 8**: In lieu of class, open drop-in 10:00-12:00 for any last questions on final assignment.
-- **Tuesday, May 9**: last date to turn in revisions.  (NB: I have to be off campus and will not be able to review submissions with you on Tuesday!)
+- **Tuesday, May 9**: drop-in hours 3:30-5:00 (timing tentative: to be confirmed).
+- **Wednesday, May 10**: last date to turn in revisions.
 
 
 ### Final written assignment
