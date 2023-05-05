@@ -11,12 +11,11 @@ has_children: true
 
 ## Announcements
 
+Availability for consultations during study week:
 
-- **Wednesday, Apr. 26**: No class  (Academic Conference)
-- **Friday, Apr. 28**: initial submission of final written assignment.
-- **Monday, May 8**: In lieu of class, open drop-in 10:00-12:00 for any last questions on final assignment.
-- **Tuesday, May 9**: drop-in hours 3:30-5:00 (timing tentative: to be confirmed).
-- **Wednesday, May 10**: last date to turn in revisions.
+- **Monday, May 8**: 10-11:30, Fenwick 413, drop-in hours.  (NB: *no* class on Monday)
+- **Tuesday, May 9**: 2:30-3:30, Fenwick 415
+- **Wednesday, May 10**: email for Zoom appointment
 
 
 ### Final written assignment

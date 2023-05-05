@@ -8,6 +8,14 @@ nav_order: 6
 # Previous weeks at a glance
 
 
+## End of semester
+
+- **Wednesday, Apr. 26**: No class  (Academic Conference)
+- **Friday, Apr. 28**: initial submission of final written assignment.
+- **Monday, May 8**: In lieu of class, open drop-in 10:00-12:00 for any last questions on final assignment.
+- **Tuesday, May 9**: drop-in hours 3:30-5:00 (timing tentative: to be confirmed).
+
+
 
 ## Week at a glance: Apr. 10 - Apr. 14
 
